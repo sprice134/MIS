@@ -1,0 +1,820 @@
+[
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_20.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 20,
+    "greedy_mis_size": 10,
+    "greedy_maximum_independent_set": [
+      11,
+      51,
+      30,
+      57,
+      25,
+      23,
+      41,
+      34,
+      10,
+      40
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_30.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 30,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      6,
+      56,
+      45,
+      37,
+      5,
+      35,
+      8
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_2.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 2,
+    "greedy_mis_size": 6,
+    "greedy_maximum_independent_set": [
+      0,
+      2,
+      15,
+      35,
+      4,
+      44
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_29.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 29,
+    "greedy_mis_size": 8,
+    "greedy_maximum_independent_set": [
+      50,
+      40,
+      35,
+      12,
+      31,
+      42,
+      24,
+      18
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_23.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 23,
+    "greedy_mis_size": 8,
+    "greedy_maximum_independent_set": [
+      1,
+      47,
+      50,
+      46,
+      18,
+      39,
+      42,
+      40
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_13.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 13,
+    "greedy_mis_size": 8,
+    "greedy_maximum_independent_set": [
+      25,
+      2,
+      42,
+      5,
+      39,
+      45,
+      11,
+      15
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_11.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 11,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      6,
+      4,
+      35,
+      22,
+      46,
+      47,
+      5
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_28.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 28,
+    "greedy_mis_size": 8,
+    "greedy_maximum_independent_set": [
+      39,
+      29,
+      49,
+      52,
+      34,
+      51,
+      40,
+      41
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_15.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 15,
+    "greedy_mis_size": 8,
+    "greedy_maximum_independent_set": [
+      9,
+      57,
+      40,
+      41,
+      44,
+      26,
+      42,
+      18
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_12.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 12,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      31,
+      5,
+      8,
+      28,
+      17,
+      18,
+      10
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_33.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 33,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      53,
+      26,
+      31,
+      30,
+      8,
+      20,
+      21
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_47.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 47,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      41,
+      45,
+      1,
+      40,
+      15,
+      5,
+      37
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_24.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 24,
+    "greedy_mis_size": 9,
+    "greedy_maximum_independent_set": [
+      2,
+      26,
+      22,
+      47,
+      8,
+      24,
+      46,
+      21,
+      48
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_10.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 10,
+    "greedy_mis_size": 8,
+    "greedy_maximum_independent_set": [
+      27,
+      11,
+      32,
+      6,
+      41,
+      51,
+      25,
+      20
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_4.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 4,
+    "greedy_mis_size": 8,
+    "greedy_maximum_independent_set": [
+      19,
+      31,
+      21,
+      27,
+      33,
+      40,
+      43,
+      55
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_14.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 14,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      39,
+      44,
+      25,
+      36,
+      13,
+      4,
+      46
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_41.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 41,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      10,
+      12,
+      40,
+      56,
+      32,
+      38,
+      25
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_39.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 39,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      3,
+      28,
+      51,
+      35,
+      34,
+      11,
+      7
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_37.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 37,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      37,
+      43,
+      34,
+      36,
+      25,
+      1,
+      57
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_25.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 25,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      58,
+      27,
+      46,
+      39,
+      45,
+      40,
+      5
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_35.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 35,
+    "greedy_mis_size": 8,
+    "greedy_maximum_independent_set": [
+      21,
+      40,
+      57,
+      20,
+      5,
+      23,
+      15,
+      43
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_19.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 19,
+    "greedy_mis_size": 8,
+    "greedy_maximum_independent_set": [
+      29,
+      53,
+      28,
+      11,
+      55,
+      12,
+      34,
+      48
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_40.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 40,
+    "greedy_mis_size": 6,
+    "greedy_maximum_independent_set": [
+      23,
+      39,
+      0,
+      26,
+      11,
+      24
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_45.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 45,
+    "greedy_mis_size": 8,
+    "greedy_maximum_independent_set": [
+      5,
+      53,
+      40,
+      19,
+      21,
+      59,
+      36,
+      49
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_27.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 27,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      58,
+      34,
+      2,
+      0,
+      1,
+      53,
+      35
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_5.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 5,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      15,
+      27,
+      13,
+      11,
+      12,
+      44,
+      47
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_34.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 34,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      21,
+      29,
+      37,
+      25,
+      28,
+      56,
+      16
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_3.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 3,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      35,
+      33,
+      12,
+      39,
+      19,
+      38,
+      24
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_18.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 18,
+    "greedy_mis_size": 8,
+    "greedy_maximum_independent_set": [
+      18,
+      26,
+      57,
+      2,
+      4,
+      6,
+      55,
+      23
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_44.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 44,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      40,
+      14,
+      47,
+      31,
+      28,
+      42,
+      34
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_21.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 21,
+    "greedy_mis_size": 8,
+    "greedy_maximum_independent_set": [
+      13,
+      31,
+      59,
+      29,
+      2,
+      0,
+      43,
+      49
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_1.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 1,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      31,
+      5,
+      44,
+      23,
+      10,
+      46,
+      27
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_36.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 36,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      43,
+      32,
+      33,
+      6,
+      59,
+      41,
+      48
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_32.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 32,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      6,
+      21,
+      9,
+      18,
+      11,
+      34,
+      3
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_8.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 8,
+    "greedy_mis_size": 8,
+    "greedy_maximum_independent_set": [
+      22,
+      6,
+      3,
+      34,
+      40,
+      24,
+      35,
+      33
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_48.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 48,
+    "greedy_mis_size": 8,
+    "greedy_maximum_independent_set": [
+      29,
+      55,
+      48,
+      17,
+      53,
+      37,
+      2,
+      33
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_31.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 31,
+    "greedy_mis_size": 8,
+    "greedy_maximum_independent_set": [
+      22,
+      50,
+      19,
+      54,
+      0,
+      26,
+      27,
+      39
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_22.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 22,
+    "greedy_mis_size": 8,
+    "greedy_maximum_independent_set": [
+      51,
+      53,
+      37,
+      1,
+      59,
+      0,
+      44,
+      46
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_26.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 26,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      42,
+      28,
+      27,
+      20,
+      29,
+      43,
+      3
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_17.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 17,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      33,
+      56,
+      24,
+      20,
+      18,
+      21,
+      48
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_49.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 49,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      4,
+      15,
+      35,
+      36,
+      37,
+      43,
+      55
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_16.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 16,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      15,
+      3,
+      36,
+      25,
+      41,
+      1,
+      58
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_7.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 7,
+    "greedy_mis_size": 8,
+    "greedy_maximum_independent_set": [
+      57,
+      6,
+      22,
+      0,
+      23,
+      18,
+      32,
+      40
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_42.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 42,
+    "greedy_mis_size": 6,
+    "greedy_maximum_independent_set": [
+      44,
+      25,
+      21,
+      34,
+      40,
+      39
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_9.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 9,
+    "greedy_mis_size": 6,
+    "greedy_maximum_independent_set": [
+      3,
+      30,
+      25,
+      8,
+      16,
+      59
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_46.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 46,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      10,
+      45,
+      32,
+      24,
+      44,
+      38,
+      14
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_38.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 38,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      5,
+      2,
+      37,
+      16,
+      47,
+      9,
+      42
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_6.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 6,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      28,
+      16,
+      18,
+      41,
+      11,
+      3,
+      38
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_43.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 43,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      14,
+      13,
+      34,
+      26,
+      1,
+      54,
+      20
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_60/removal_50percent/graph_50.edgelist",
+    "num_nodes": 60,
+    "percent_removed": 50,
+    "iteration": 50,
+    "greedy_mis_size": 7,
+    "greedy_maximum_independent_set": [
+      5,
+      13,
+      38,
+      44,
+      33,
+      26,
+      52
+    ]
+  }
+]

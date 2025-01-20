@@ -25,4 +25,7 @@ source /home/sprice/MIS/nodeCreator/bin/activate
 # python compute_mis_commandLine_v2.py --node_counts 110
 # python compute_mis_commandLine_v2.py --node_counts 115
 # python compute_mis_commandLine_v2.py --node_counts 120
-python compute_mis_commandLine_v2.py --node_counts 90
+# python compute_mis_commandLine_v2.py --node_counts 90
+
+
+python compute_greedy_mis_commandline.py --node_counts 100 105 110 115 120 125 130 135 140 145 150
