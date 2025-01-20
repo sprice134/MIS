@@ -1,0 +1,13 @@
+Running job on gpu-5-28
+Requested resources:
+  - CPUs: 64
+  - GPUs: 
+  - Memory: 64000
+Node counts to process: [115]
+Removal percentages to process: [15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85]%
+Number of iterations per combination: 50
+Base directory: generated_graphs
+Output directory: mis_results_grouped
+Total tasks to process: 750
+Using 96 processes for parallel computation.
+slurmstepd: error: *** JOB 1141712 ON gpu-5-28 CANCELLED AT 2025-01-20T10:49:09 ***
