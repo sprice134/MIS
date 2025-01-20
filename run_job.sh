@@ -3,7 +3,7 @@
 #SBATCH --cpus-per-task=64               # Number of CPU cores
 #SBATCH --gres=gpu:0                    # Number of GPUs
 #SBATCH --mem=64000MB                   # Memory in MB
-#SBATCH --time=4:00:00                 # Time limit (HH:MM:SS)
+#SBATCH --time=12:00:00                 # Time limit (HH:MM:SS)
 #SBATCH --partition=short               # Partition name
 
 # Print some job information
@@ -25,7 +25,7 @@ source /home/sprice/MIS/nodeCreator/bin/activate
 # python compute_mis_commandLine_v2.py --node_counts 110
 # python compute_mis_commandLine_v2.py --node_counts 115
 # python compute_mis_commandLine_v2.py --node_counts 120
-# python compute_mis_commandLine_v2.py --node_counts 90
+python compute_mis_commandLine_v2.py --node_counts 80
 
 
 # python compute_greedy_mis_commandline.py --node_counts 100 105 110 115 120 125 130 135 140 145 150

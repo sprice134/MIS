@@ -10,3 +10,4 @@ Base directory: generated_graphs
 Output directory: mis_results_grouped
 Total tasks to process: 750
 Using 192 processes for parallel computation.
+slurmstepd: error: *** JOB 1141744 ON compute-3-06 CANCELLED AT 2025-01-20T14:06:06 DUE TO TIME LIMIT ***
