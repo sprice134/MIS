@@ -1,10 +1,10 @@
 #!/bin/bash
-#SBATCH --job-name=job1137    # Job name
+#SBATCH --job-name=70    # Job name
 #SBATCH --cpus-per-task=64               # Number of CPU cores
 #SBATCH --gres=gpu:0                    # Number of GPUs
 #SBATCH --mem=64000MB                   # Memory in MB
-#SBATCH --time=12:00:00                 # Time limit (HH:MM:SS)
-#SBATCH --partition=short               # Partition name
+#SBATCH --time=48:00:00                 # Time limit (HH:MM:SS)
+#SBATCH --partition=long               # Partition name
 
 # Print some job information
 echo "Running job on $SLURM_JOB_NODELIST"
@@ -25,7 +25,7 @@ source /home/sprice/MIS/nodeCreator/bin/activate
 # python compute_mis_commandLine_v2.py --node_counts 110
 # python compute_mis_commandLine_v2.py --node_counts 115
 # python compute_mis_commandLine_v2.py --node_counts 120
-python compute_mis_commandLine_v2.py --node_counts 80
+python compute_mis_commandLine_v2.py --node_counts 75
 
 
 # python compute_greedy_mis_commandline.py --node_counts 100 105 110 115 120 125 130 135 140 145 150

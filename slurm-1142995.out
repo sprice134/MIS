@@ -1,4 +1,4 @@
-Running job on gpu-5-12
+Running job on compute-0-01
 Requested resources:
   - CPUs: 64
   - GPUs: 
@@ -9,4 +9,4 @@ Number of iterations per combination: 50
 Base directory: generated_graphs
 Output directory: mis_results_grouped
 Total tasks to process: 750
-Using 128 processes for parallel computation.
+Using 384 processes for parallel computation.

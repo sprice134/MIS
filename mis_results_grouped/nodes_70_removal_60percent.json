@@ -1,0 +1,967 @@
+[
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_21.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 21,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      13,
+      50,
+      66,
+      4,
+      23,
+      28,
+      51,
+      57,
+      27,
+      16
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_28.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 28,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      5,
+      24,
+      26,
+      44,
+      50,
+      18,
+      25,
+      49,
+      56,
+      43
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_45.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 45,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      0,
+      13,
+      40,
+      56,
+      67,
+      23,
+      32,
+      10,
+      28,
+      64
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_34.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 34,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      1,
+      8,
+      20,
+      26,
+      36,
+      40,
+      42,
+      55,
+      58,
+      31
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_24.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 24,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      0,
+      17,
+      33,
+      53,
+      69,
+      36,
+      51,
+      20,
+      48,
+      59
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_49.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 49,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      1,
+      14,
+      22,
+      30,
+      49,
+      52,
+      53,
+      54,
+      60,
+      24
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_4.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 4,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      0,
+      1,
+      12,
+      14,
+      47,
+      60,
+      63,
+      66,
+      35,
+      68
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_13.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 13,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      2,
+      31,
+      34,
+      43,
+      44,
+      17,
+      36,
+      50,
+      39,
+      19
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_37.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 37,
+    "mis_size": 12,
+    "maximum_independent_set": [
+      2,
+      11,
+      27,
+      28,
+      47,
+      55,
+      61,
+      3,
+      30,
+      56,
+      66,
+      46
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_23.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 23,
+    "mis_size": 11,
+    "maximum_independent_set": [
+      47,
+      65,
+      34,
+      37,
+      52,
+      54,
+      5,
+      51,
+      63,
+      40,
+      64
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_5.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 5,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      15,
+      29,
+      34,
+      52,
+      64,
+      28,
+      48,
+      55,
+      16,
+      7
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_18.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 18,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      8,
+      23,
+      68,
+      69,
+      12,
+      67,
+      28,
+      38,
+      57,
+      44
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_22.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 22,
+    "mis_size": 11,
+    "maximum_independent_set": [
+      0,
+      26,
+      30,
+      32,
+      50,
+      16,
+      43,
+      55,
+      44,
+      41,
+      66
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_8.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 8,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      0,
+      1,
+      4,
+      7,
+      49,
+      9,
+      28,
+      32,
+      35,
+      26
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_31.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 31,
+    "mis_size": 11,
+    "maximum_independent_set": [
+      1,
+      8,
+      43,
+      2,
+      35,
+      44,
+      47,
+      46,
+      15,
+      58,
+      32
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_10.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 10,
+    "mis_size": 11,
+    "maximum_independent_set": [
+      3,
+      26,
+      51,
+      32,
+      44,
+      50,
+      54,
+      69,
+      6,
+      20,
+      35
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_16.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 16,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      3,
+      10,
+      26,
+      52,
+      57,
+      19,
+      42,
+      43,
+      34,
+      50
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_2.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 2,
+    "mis_size": 11,
+    "maximum_independent_set": [
+      20,
+      30,
+      45,
+      47,
+      63,
+      9,
+      43,
+      46,
+      60,
+      68,
+      23
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_7.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 7,
+    "mis_size": 11,
+    "maximum_independent_set": [
+      21,
+      43,
+      12,
+      42,
+      57,
+      66,
+      25,
+      53,
+      65,
+      41,
+      50
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_15.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 15,
+    "mis_size": 11,
+    "maximum_independent_set": [
+      31,
+      39,
+      49,
+      18,
+      22,
+      37,
+      47,
+      56,
+      57,
+      45,
+      66
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_12.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 12,
+    "mis_size": 11,
+    "maximum_independent_set": [
+      4,
+      6,
+      16,
+      48,
+      50,
+      55,
+      15,
+      12,
+      18,
+      61,
+      63
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_29.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 29,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      3,
+      11,
+      12,
+      14,
+      56,
+      29,
+      25,
+      48,
+      69,
+      32
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_47.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 47,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      0,
+      4,
+      16,
+      20,
+      66,
+      14,
+      32,
+      17,
+      24,
+      67
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_9.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 9,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      0,
+      7,
+      18,
+      25,
+      28,
+      6,
+      9,
+      62,
+      24,
+      29
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_27.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 27,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      0,
+      1,
+      2,
+      4,
+      18,
+      32,
+      45,
+      53,
+      16,
+      34
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_35.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 35,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      28,
+      30,
+      38,
+      43,
+      49,
+      14,
+      50,
+      62,
+      22,
+      21
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_26.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 26,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      0,
+      1,
+      2,
+      20,
+      42,
+      11,
+      12,
+      56,
+      61,
+      23
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_36.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 36,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      0,
+      6,
+      25,
+      41,
+      45,
+      9,
+      20,
+      32,
+      26,
+      63
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_17.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 17,
+    "mis_size": 9,
+    "maximum_independent_set": [
+      0,
+      69,
+      46,
+      51,
+      53,
+      60,
+      34,
+      52,
+      45
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_14.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 14,
+    "mis_size": 11,
+    "maximum_independent_set": [
+      0,
+      13,
+      30,
+      38,
+      52,
+      10,
+      41,
+      22,
+      25,
+      39,
+      48
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_32.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 32,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      0,
+      5,
+      17,
+      18,
+      29,
+      58,
+      16,
+      55,
+      8,
+      21
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_42.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 42,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      0,
+      7,
+      14,
+      38,
+      13,
+      18,
+      63,
+      64,
+      66,
+      39
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_1.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 1,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      2,
+      3,
+      41,
+      51,
+      27,
+      31,
+      37,
+      4,
+      6,
+      47
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_25.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 25,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      0,
+      5,
+      9,
+      48,
+      59,
+      47,
+      58,
+      69,
+      8,
+      21
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_43.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 43,
+    "mis_size": 11,
+    "maximum_independent_set": [
+      0,
+      23,
+      26,
+      27,
+      38,
+      28,
+      39,
+      47,
+      48,
+      24,
+      16
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_44.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 44,
+    "mis_size": 12,
+    "maximum_independent_set": [
+      30,
+      32,
+      52,
+      57,
+      59,
+      29,
+      51,
+      62,
+      3,
+      50,
+      5,
+      25
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_48.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 48,
+    "mis_size": 11,
+    "maximum_independent_set": [
+      1,
+      19,
+      44,
+      51,
+      58,
+      13,
+      40,
+      9,
+      12,
+      31,
+      33
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_30.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 30,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      6,
+      15,
+      18,
+      25,
+      26,
+      46,
+      51,
+      58,
+      48,
+      17
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_50.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 50,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      19,
+      37,
+      60,
+      61,
+      17,
+      18,
+      35,
+      3,
+      14,
+      55
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_40.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 40,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      13,
+      43,
+      49,
+      63,
+      69,
+      1,
+      2,
+      39,
+      45,
+      32
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_39.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 39,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      6,
+      23,
+      54,
+      55,
+      61,
+      51,
+      58,
+      5,
+      13,
+      19
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_38.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 38,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      15,
+      23,
+      30,
+      31,
+      7,
+      38,
+      13,
+      69,
+      10,
+      21
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_46.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 46,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      0,
+      4,
+      10,
+      22,
+      46,
+      47,
+      50,
+      68,
+      3,
+      65
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_33.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 33,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      0,
+      26,
+      31,
+      49,
+      62,
+      64,
+      51,
+      58,
+      61,
+      29
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_19.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 19,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      0,
+      4,
+      26,
+      31,
+      40,
+      46,
+      25,
+      34,
+      24,
+      12
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_41.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 41,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      3,
+      19,
+      27,
+      51,
+      57,
+      61,
+      11,
+      17,
+      67,
+      48
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_20.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 20,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      13,
+      24,
+      49,
+      2,
+      7,
+      12,
+      27,
+      45,
+      63,
+      68
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_6.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 6,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      0,
+      6,
+      9,
+      23,
+      27,
+      5,
+      28,
+      26,
+      67,
+      53
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_3.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 3,
+    "mis_size": 11,
+    "maximum_independent_set": [
+      0,
+      40,
+      45,
+      58,
+      26,
+      31,
+      48,
+      23,
+      4,
+      9,
+      15
+    ]
+  },
+  {
+    "file_path": "generated_graphs/nodes_70/removal_60percent/graph_11.edgelist",
+    "num_nodes": 70,
+    "percent_removed": 60,
+    "iteration": 11,
+    "mis_size": 10,
+    "maximum_independent_set": [
+      3,
+      46,
+      2,
+      4,
+      18,
+      27,
+      33,
+      56,
+      36,
+      25
+    ]
+  }
+]
