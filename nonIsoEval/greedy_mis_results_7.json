@@ -1,0 +1,9705 @@
+[
+  {
+    "file_path": "noniso_7_networkx/graph_0.edgelist",
+    "greedy_mis_size": 7,
+    "greedy_mis_set": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1.edgelist",
+    "greedy_mis_size": 6,
+    "greedy_mis_set": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_10.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      4,
+      5,
+      6,
+      3,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1001.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_100.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      1,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1000.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1003.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1004.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1015.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1005.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1006.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1002.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1008.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_102.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      2,
+      3,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1009.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1007.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_101.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      2,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1026.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1028.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1011.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1014.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1010.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1012.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1013.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1016.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1018.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1021.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1019.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1032.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1017.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1020.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1023.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1025.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1022.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      4,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1041.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1027.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1024.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1029.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1030.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_103.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      3,
+      4,
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1033.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1034.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1031.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1036.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_105.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1035.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1037.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1040.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1039.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1038.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_115.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1043.edgelist",
+    "greedy_mis_size": 1,
+    "greedy_mis_set": [
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_110.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_104.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      3,
+      4,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_1042.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_117.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      4,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_106.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_11.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      5,
+      6,
+      2,
+      3,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_109.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_107.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_111.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_112.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_108.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      1,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_114.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      4,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_113.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_127.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_119.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_116.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      0,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_12.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      6,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_130.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      0,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_118.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_122.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      5,
+      4,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_121.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_123.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_120.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      0,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_124.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_125.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_126.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_128.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      3,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_129.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      4,
+      0,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_141.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_131.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_13.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      3,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_145.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      0,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_132.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_134.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      1,
+      6,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_133.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_135.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_136.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_15.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      4,
+      5,
+      6,
+      0,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_14.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      5,
+      6,
+      3,
+      0,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_137.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_139.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_142.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      0,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_153.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_140.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_138.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_144.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      0,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_143.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_147.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_146.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      4,
+      5,
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_148.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      6,
+      5,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_149.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      4,
+      5,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_16.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_150.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_155.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_154.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_156.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      2,
+      6,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_151.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_163.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_152.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_167.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      2,
+      6,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_157.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_159.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_158.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      4,
+      5,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_173.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      6,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_176.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_164.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_162.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_165.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_160.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_161.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_168.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      4,
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_169.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_175.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_166.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_17.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      6,
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_174.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_172.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_187.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_189.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_184.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      3,
+      2,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_177.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      3,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_171.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_170.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      3,
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_179.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_18.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_178.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_180.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_183.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_181.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_185.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_182.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_19.edgelist",
+    "greedy_mis_size": 6,
+    "greedy_mis_set": [
+      6,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_186.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      3,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_191.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_192.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_193.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_188.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      3,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_190.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_194.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      2,
+      3,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_195.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      2,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_204.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_203.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_196.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_198.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_209.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_2.edgelist",
+    "greedy_mis_size": 6,
+    "greedy_mis_set": [
+      3,
+      4,
+      5,
+      6,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_199.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_197.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_201.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_215.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_20.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      5,
+      6,
+      3,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_202.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_216.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_200.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_205.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_206.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_208.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      2,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_207.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_210.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_21.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_211.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_228.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_217.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      0,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_218.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_212.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_219.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      6,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_231.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_22.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_220.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_214.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_222.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      0,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_213.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_236.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_24.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      5,
+      6,
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_237.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_239.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_224.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_221.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_238.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      1,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_229.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_233.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      0,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_226.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_227.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      0,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_230.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_223.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_243.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      5,
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_225.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_242.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_235.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_254.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_244.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_25.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      4,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_252.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      3,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_253.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      3,
+      6,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_247.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_256.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_251.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_248.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_232.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      0,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_255.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_26.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      5,
+      6,
+      3,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_261.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_249.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      5,
+      2,
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_234.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_250.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_258.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      5,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_241.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_240.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_23.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      4,
+      5,
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_246.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_262.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_260.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_264.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_265.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      3,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_275.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_245.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_266.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_279.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_277.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_291.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_278.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_292.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_276.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      1,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_267.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_296.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_274.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_287.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_273.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_272.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_284.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_270.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_27.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_29.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_289.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      3,
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_257.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_288.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      6,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_303.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_293.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_269.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_290.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_259.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      6,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_313.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_263.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      4,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_281.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_311.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_280.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_302.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_30.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_295.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_297.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_28.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_305.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_308.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_300.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_271.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_301.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_299.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_268.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_315.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_294.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_309.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_298.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_31.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      2,
+      3,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_283.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_282.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_286.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_285.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      3,
+      2,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_306.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_310.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_3.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      4,
+      5,
+      6,
+      0,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_316.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_328.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_320.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_317.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_312.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_327.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_325.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_32.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_322.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_307.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_330.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      3,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_319.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_324.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_321.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_334.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      3,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_333.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_342.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_338.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      3,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_331.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_36.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_341.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_314.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_332.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_336.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_343.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_352.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_344.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_345.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_362.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_363.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      4,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_346.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_323.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_347.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_340.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_326.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_34.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      0,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_349.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      4,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_359.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      0,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_304.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_371.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      0,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_378.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_372.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      0,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_373.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      0,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_365.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      0,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_358.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_356.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      4,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_354.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      2,
+      3,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_318.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_351.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_370.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      0,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_35.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      0,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_350.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_361.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_38.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      2,
+      1,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_360.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_376.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_33.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_329.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_393.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_353.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      1,
+      4,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_366.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_357.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_355.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_388.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_337.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_389.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_391.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      4,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_367.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_386.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      4,
+      6,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_381.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_39.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      0,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_384.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_369.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_37.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      0,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_377.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_394.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_395.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_414.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_41.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      6,
+      3,
+      4,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_374.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_335.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_424.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_420.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_392.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_439.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_390.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_368.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_348.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_383.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_411.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_339.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      2,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_408.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_375.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_425.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_379.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_419.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_405.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_418.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_402.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_406.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_385.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_397.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_421.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_4.edgelist",
+    "greedy_mis_size": 6,
+    "greedy_mis_set": [
+      4,
+      5,
+      6,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_415.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      2,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_398.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_410.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_413.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_454.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_44.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      6,
+      3,
+      4,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_422.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_416.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_387.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_40.edgelist",
+    "greedy_mis_size": 6,
+    "greedy_mis_set": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_382.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      2,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_427.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_502.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_45.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_417.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_43.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      5,
+      6,
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_364.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_380.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_437.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_444.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_496.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_443.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_404.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_48.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_423.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_473.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_462.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_438.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_441.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_42.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      2,
+      3,
+      4,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_412.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_449.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_47.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      6,
+      3,
+      4,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_436.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_463.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_466.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_532.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_495.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_409.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      3,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_396.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_470.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_471.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_447.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_50.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      2,
+      3,
+      4,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_461.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_403.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_440.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_400.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_448.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_483.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_477.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_435.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_432.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_452.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      1,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_434.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_453.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_499.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_46.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_428.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_475.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_511.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_576.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_493.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      4,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_539.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_399.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_53.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      4,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_480.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_472.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      2,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_506.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_407.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      3,
+      2,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_445.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_599.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_446.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_431.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_458.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_508.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_5.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      3,
+      4,
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_523.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_497.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_433.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_57.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_561.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_589.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_560.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_587.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_426.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_51.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_455.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_492.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_52.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_465.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_464.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_509.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_474.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_401.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_507.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_498.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_457.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_489.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_552.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_608.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_514.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_577.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_542.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_520.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      0,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_430.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_479.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_459.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_482.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_49.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_543.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_613.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_617.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_500.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_545.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_442.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_468.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_481.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_512.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_584.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_484.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_505.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      0,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_513.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_456.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_517.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_494.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_450.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_548.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_535.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_631.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_490.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      4,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_547.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      2,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_602.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_522.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_585.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_476.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_537.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_451.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_538.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_533.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_541.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_503.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      3,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_582.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_546.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_611.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_516.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_486.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_572.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_530.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_485.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_605.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_534.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_527.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_616.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_557.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_531.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      2,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_597.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_487.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_570.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_488.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      5,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_581.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_491.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_528.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_650.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_429.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_637.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_54.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_467.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_460.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_478.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_562.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_529.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_604.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_574.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_550.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_571.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_569.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_568.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_519.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_549.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_596.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_601.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_567.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_644.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_469.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_62.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_660.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_636.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      0,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_551.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_515.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_526.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_59.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_510.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      4,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_588.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_627.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_578.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_594.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_544.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_554.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_687.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_603.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_633.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_555.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_623.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_626.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_586.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_624.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_590.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_620.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_686.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_619.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_665.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_592.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_501.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      0,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_60.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_61.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      5,
+      6,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_504.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_591.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_600.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_525.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_536.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_607.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_675.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_606.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_628.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_663.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      0,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_579.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_55.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_518.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_647.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_56.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_662.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_689.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_564.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_556.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_566.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_563.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_694.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_661.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_553.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_593.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_558.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_580.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_58.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      6,
+      3,
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_667.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_521.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      0,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_635.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_622.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_575.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_565.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_559.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_670.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      6,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_668.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      1,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_629.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_70.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_64.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      2,
+      3,
+      1,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_583.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_573.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_63.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_540.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_729.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_612.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_655.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_676.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_632.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_656.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_6.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      4,
+      5,
+      6,
+      2,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_621.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_646.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_672.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_595.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_7.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      5,
+      6,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_651.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_610.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_654.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_669.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_609.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_640.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_618.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_524.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_598.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_65.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      3,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_625.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_634.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      0,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_638.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      0,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_721.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_688.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_671.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_66.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      0,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_615.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_643.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_630.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_649.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_693.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_702.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_652.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_73.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      2,
+      3,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_682.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_736.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_679.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_666.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_657.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_713.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_614.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_699.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_677.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_641.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_658.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_720.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_680.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_750.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_700.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_709.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_653.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      0,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_690.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_683.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_728.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_659.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_681.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_678.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_711.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_718.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_76.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      0,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_692.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_685.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_727.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_642.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_715.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_664.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_734.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_741.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_748.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_739.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_648.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_71.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      0,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_706.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_67.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_645.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_674.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_696.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_716.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_712.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_717.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_749.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_764.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_698.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_639.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_701.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_746.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_747.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_75.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      0,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_754.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_731.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_714.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_703.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_763.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_742.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_753.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_704.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_74.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_735.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_760.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_722.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_724.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_726.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_740.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_707.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_710.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_765.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_684.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_708.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_744.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_798.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_830.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_808.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_723.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_773.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_705.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_780.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_762.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_783.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_833.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_697.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_673.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_691.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_801.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_781.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_784.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      0,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_79.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      0,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_829.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_757.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_733.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_743.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_816.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_850.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_782.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_789.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_766.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_794.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_751.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_69.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      1,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_737.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_730.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_796.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_777.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_797.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      1,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_854.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_791.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_78.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      0,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_72.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      1,
+      6,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_778.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_812.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_807.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_758.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_68.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_792.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_719.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_795.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_752.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_725.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_738.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_732.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_790.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_756.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_803.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_813.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_906.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_910.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      2,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_809.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_745.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_828.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_761.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_787.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_786.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_768.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_825.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_831.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_788.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_90.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_810.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_785.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      0,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_802.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_805.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_892.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_891.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_84.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_845.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_759.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_779.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_776.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_774.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      0,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_77.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_879.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_89.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      6,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_842.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      6,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_814.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_82.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      6,
+      4,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_858.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_866.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_793.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_695.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_800.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      0,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_882.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_85.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      5,
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_824.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_775.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      0,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_8.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_769.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_839.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      2,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_771.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      0,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_818.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_920.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_905.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_900.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_837.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_755.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_853.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_767.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_772.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_9.edgelist",
+    "greedy_mis_size": 6,
+    "greedy_mis_set": [
+      5,
+      6,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_838.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_859.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_864.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_87.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      5,
+      6,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_80.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_770.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_822.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_876.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_855.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_872.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_846.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_928.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_966.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_844.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_821.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_870.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_860.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_799.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_88.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      6,
+      4,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_811.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_806.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_894.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_898.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_840.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_938.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_823.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_902.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_904.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_869.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_86.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      3,
+      4,
+      5,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_861.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_83.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      3,
+      4,
+      5,
+      2,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_915.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_877.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_862.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_97.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_918.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_81.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      3,
+      4,
+      5,
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_868.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_857.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_887.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_826.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_871.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_817.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_954.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_903.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_835.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_913.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_888.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_962.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      0,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_958.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_956.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_827.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_834.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_863.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_909.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_851.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_815.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_836.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_94.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_908.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_940.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_941.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_847.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_895.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_937.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_881.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_93.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_832.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_820.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_841.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      2,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_911.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_849.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_942.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_978.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_955.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_935.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_843.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_916.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_883.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_852.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_875.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_856.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_943.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_932.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_890.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_889.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_973.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_874.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_819.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_878.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      3,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_896.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      0,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_899.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      6,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_968.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_865.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_880.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_961.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      0,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_804.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      5,
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_952.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_912.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_965.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_930.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_939.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_886.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_926.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_972.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_933.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      4,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_885.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_92.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      3,
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_848.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_984.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_914.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_91.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      3,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_917.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_95.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      6,
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_953.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_951.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_992.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_884.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_901.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_924.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_922.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_893.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_927.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_931.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_919.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      1,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_944.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_923.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_946.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_934.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_907.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_980.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_945.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_988.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_997.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_963.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_873.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_994.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_867.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_979.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_96.edgelist",
+    "greedy_mis_size": 5,
+    "greedy_mis_set": [
+      6,
+      4,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_897.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      4,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_977.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_948.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      4,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_981.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_960.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_996.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_959.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_949.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_971.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_957.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_967.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      2,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_998.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_947.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      1
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_936.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      4,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_969.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_921.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_964.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      5,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_990.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_976.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      3,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_98.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      4,
+      2,
+      5,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_950.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      4,
+      2,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_991.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_970.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      4,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_99.edgelist",
+    "greedy_mis_size": 4,
+    "greedy_mis_set": [
+      3,
+      4,
+      2,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_983.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      1,
+      5,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_995.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_993.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_925.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_986.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_985.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_974.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_975.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      5,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_999.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      5,
+      2,
+      6
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_989.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_982.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      1,
+      5
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_987.edgelist",
+    "greedy_mis_size": 2,
+    "greedy_mis_set": [
+      6,
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_7_networkx/graph_929.edgelist",
+    "greedy_mis_size": 3,
+    "greedy_mis_set": [
+      6,
+      3,
+      4
+    ]
+  }
+]

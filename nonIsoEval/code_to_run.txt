@@ -1,0 +1,4 @@
+python generate_noniso_graphs.py --nodes 6 --outdir noniso_6_networkx
+python calculate_mis.py --nodes 6 --input_dir noniso_6_networkx --output_file mis_results_6.json
+python calculate_greedy_mis.py --nodes 6 --input_dir noniso_6_networkx --output_file greedy_mis_results_6.json
+python analysis.py --nodes 6 --gt mis_results_6.json --greedy greedy_mis_results_6.json
