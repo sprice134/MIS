@@ -21,6 +21,15 @@ def write_edgelist_with_isolated_nodes(G, filename):
         for node in isolated:
             f.write(f"{node}\n")
 
+def write_graph(args):
+    """
+    Top-level function so that it can be pickled by multiprocessing.
+    Writes a single graph's edges (including isolated nodes) to an .edgelist file.
+    """
+    G, idx, outdir = args
+    filename = os.path.join(outdir, f"graph_{idx}.edgelist")
+    write_edgelist_with_isolated_nodes(G, filename)
+
 def worker(subsets, n):
     """
     Worker function to process a chunk of subsets.
@@ -45,7 +54,7 @@ def worker(subsets, n):
         if degseq not in local_rep_map:
             local_rep_map[degseq] = [G]
         else:
-            # Check isomorphism with existing representatives in local map
+            # Check isomorphism with existing representatives
             is_new = True
             for rep in local_rep_map[degseq]:
                 if nx.is_isomorphic(G, rep):
@@ -91,7 +100,10 @@ def chunkify(iterable, chunk_size):
             break
         yield chunk
 
-def generate_nonisomorphic_graphs_parallel(n=8, outdir="noniso_8_networkx_parallel", num_workers=None, chunk_size=1000):
+def generate_nonisomorphic_graphs_parallel(n=8, 
+                                           outdir="noniso_8_networkx_parallel", 
+                                           num_workers=None, 
+                                           chunk_size=1000):
     """
     Generate all non-isomorphic undirected graphs on n vertices using NetworkX.
     The process is parallelized to utilize multiple CPU cores.
@@ -114,8 +126,10 @@ def generate_nonisomorphic_graphs_parallel(n=8, outdir="noniso_8_networkx_parall
     print(f"Total subsets to process: {total_subsets}")
     print(f"Using {num_workers or cpu_count()} workers and chunk size of {chunk_size}")
 
-    # Create an iterator for all subsets
-    subsets_iter = itertools.chain.from_iterable(itertools.combinations(all_edges, r) for r in range(num_edges + 1))
+    # Create an iterator for all subsets (from 0-edge graphs up to full-edge graphs)
+    subsets_iter = itertools.chain.from_iterable(
+        itertools.combinations(all_edges, r) for r in range(num_edges + 1)
+    )
     
     # Create chunks of subsets
     chunks = chunkify(subsets_iter, chunk_size)
@@ -133,9 +147,11 @@ def generate_nonisomorphic_graphs_parallel(n=8, outdir="noniso_8_networkx_parall
     # Create a multiprocessing pool
     with Pool(processes=num_workers) as pool:
         # Use imap_unordered for potentially better performance
-        for local_map in tqdm(pool.imap_unordered(worker_func, chunks), 
-                              total=total_subsets // chunk_size + 1, 
-                              desc="Processing chunks"):
+        for local_map in tqdm(
+            pool.imap_unordered(worker_func, chunks), 
+            total=total_subsets // chunk_size + 1, 
+            desc="Processing chunks"
+        ):
             merge_rep_maps(global_rep_map, local_map)
 
     # Collect all representative graphs from the global map
@@ -147,19 +163,15 @@ def generate_nonisomorphic_graphs_parallel(n=8, outdir="noniso_8_networkx_parall
     print(f"Writing graphs to '{outdir}'...")
 
     # Prepare arguments for writing graphs
-    args_list = [ (G, idx, outdir) for idx, G in enumerate(representatives) ]
-
-    # Define a global write function to avoid pickling issues
-    def write_graph(args):
-        G, idx, outdir = args
-        filename = os.path.join(outdir, f"graph_{idx}.edgelist")
-        write_edgelist_with_isolated_nodes(G, filename)
+    args_list = [(G, idx, outdir) for idx, G in enumerate(representatives)]
 
     # Write graphs in parallel
     with Pool(processes=num_workers) as pool:
-        list(tqdm(pool.imap_unordered(write_graph, args_list), 
-                  total=len(args_list), 
-                  desc="Writing graphs"))
+        list(tqdm(
+            pool.imap_unordered(write_graph, args_list), 
+            total=len(args_list), 
+            desc="Writing graphs"
+        ))
 
     print(f"All non-isomorphic graphs have been written to '{outdir}'.")
 
@@ -189,7 +201,7 @@ def main():
         "--chunk_size",
         type=int,
         default=10000,
-        help="Number of subsets per chunk for processing (default: 1000)"
+        help="Number of subsets per chunk for processing (default: 10000)"
     )
     args = parser.parse_args()
 
@@ -198,9 +210,9 @@ def main():
     num_workers = args.workers
     chunk_size = args.chunk_size
 
-    generate_nonisomorphic_graphs_parallel(n=n, outdir=outdir, num_workers=num_workers, chunk_size=chunk_size)
+    generate_nonisomorphic_graphs_parallel(n=n, outdir=outdir,
+                                           num_workers=num_workers,
+                                           chunk_size=chunk_size)
 
 if __name__ == "__main__":
     main()
-
-    # python generate_noniso_graphs_v2.py --nodes 8 --outdir noniso_8_networkx

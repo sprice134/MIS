@@ -2,3 +2,5 @@ python generate_noniso_graphs.py --nodes 7 --outdir noniso_7_networkx
 python calculate_mis.py --nodes 7 --input_dir noniso_7_networkx --output_file mis_results_7.json
 python calculate_greedy_mis.py --nodes 7 --input_dir noniso_7_networkx --output_file greedy_mis_results_7.json
 python analysis.py --nodes 7 --gt mis_results_7.json --greedy greedy_mis_results_7.json
+
+python generate_noniso_graphs.py --nodes 8 --outdir noniso_8_networkx

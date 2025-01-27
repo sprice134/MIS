@@ -5,9 +5,9 @@
 # When submitting the job, you'll set this variable using the --export option.
 
 #SBATCH --job-name=noniso_${NODES}     # Job name includes the number of nodes
-#SBATCH --cpus-per-task=256             # Number of CPU cores
+#SBATCH --cpus-per-task=164             # Number of CPU cores
 #SBATCH --gres=gpu:0                   # Number of GPUs
-#SBATCH --mem=256000                  # Memory in MB
+#SBATCH --mem=164000                  # Memory in MB
 #SBATCH --time=72:00:00                # Time limit (HH:MM:SS)
 #SBATCH --partition=long               # Partition name
 
