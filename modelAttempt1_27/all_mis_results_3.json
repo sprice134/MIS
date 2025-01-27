@@ -1,0 +1,92 @@
+[
+  {
+    "file_path": "../NonIsoEval/noniso_3_networkx/graph_3.edgelist",
+    "MIS_SIZE": 1,
+    "MIS_SETS": [
+      [
+        2
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ]
+    ],
+    "MIS_CELLS": [
+      1,
+      1,
+      1
+    ],
+    "MIS_CELLS_PROB": [
+      0.3333333333333333,
+      0.3333333333333333,
+      0.3333333333333333
+    ]
+  },
+  {
+    "file_path": "../NonIsoEval/noniso_3_networkx/graph_1.edgelist",
+    "MIS_SIZE": 2,
+    "MIS_SETS": [
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "MIS_CELLS": [
+      1,
+      1,
+      1
+    ],
+    "MIS_CELLS_PROB": [
+      0.5,
+      0.5,
+      1.0
+    ]
+  },
+  {
+    "file_path": "../NonIsoEval/noniso_3_networkx/graph_2.edgelist",
+    "MIS_SIZE": 2,
+    "MIS_SETS": [
+      [
+        1,
+        2
+      ]
+    ],
+    "MIS_CELLS": [
+      0,
+      1,
+      1
+    ],
+    "MIS_CELLS_PROB": [
+      0.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "file_path": "../NonIsoEval/noniso_3_networkx/graph_0.edgelist",
+    "MIS_SIZE": 3,
+    "MIS_SETS": [
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "MIS_CELLS": [
+      1,
+      1,
+      1
+    ],
+    "MIS_CELLS_PROB": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  }
+]

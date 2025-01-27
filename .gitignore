@@ -1,2 +1,3 @@
 nodeCreator/
-/Users/sprice/Documents/GitHub/MIS/modelAttempt1_27/best_model.pth
+*.pt
+*.pth

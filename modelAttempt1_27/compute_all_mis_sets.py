@@ -190,4 +190,8 @@ def main():
 
 if __name__ == "__main__":
     main()
-    #python compute_all_mis_sets.py --nodes 7 --input_dir ../NonIsoEval/noniso_7_networkx --output_file all_mis_results_7.json
+    # python compute_all_mis_sets.py --nodes 3 --input_dir ../NonIsoEval/noniso_3_networkx --output_file all_mis_results_3.json
+    # python compute_all_mis_sets.py --nodes 4 --input_dir ../NonIsoEval/noniso_4_networkx --output_file all_mis_results_4.json
+    # python compute_all_mis_sets.py --nodes 5 --input_dir ../NonIsoEval/noniso_5_networkx --output_file all_mis_results_5.json
+    # python compute_all_mis_sets.py --nodes 6 --input_dir ../NonIsoEval/noniso_6_networkx --output_file all_mis_results_6.json
+    # python compute_all_mis_sets.py --nodes 7 --input_dir ../NonIsoEval/noniso_7_networkx --output_file all_mis_results_7.json
