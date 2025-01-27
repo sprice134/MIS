@@ -1,32 +1,0 @@
-Running job on compute-3-02
-Requested resources:
-  - CPUs: 16
-  - GPUs: 
-  - Memory: 16000
-  - Number of Nodes: 3
-Generating non-isomorphic graphs for n=3...
-Total subsets to process: 8
-Using 192 workers and chunk size of 10000
-Processing chunks:   0%|          | 0/1 [00:00<?, ?it/s]Processing chunks: 100%|██████████| 1/1 [00:00<00:00, 22192.08it/s]Total non-isomorphic graphs found: 4
-Writing graphs to 'noniso_3_networkx'...
-
-Writing graphs:   0%|          | 0/4 [00:00<?, ?it/s]Writing graphs: 100%|██████████| 4/4 [00:00<00:00, 423.54it/s]
-All non-isomorphic graphs have been written to 'noniso_3_networkx'.
-Found 4 .edgelist files to process in 'noniso_3_networkx'.
-Using 192 parallel processes.
-Processed noniso_3_networkx/graph_1.edgelist: MIS size = 2
-Processed noniso_3_networkx/graph_0.edgelist: MIS size = 3
-All tasks processed. Total results collected: 4
-Results saved to 'mis_results_3.json'.
-Found 4 .edgelist files in 'noniso_3_networkx'.
-Using 4 parallel processes.
-Processing graphs:   0%|          | 0/4 [00:00<?, ?it/s]Processing graphs: 100%|██████████| 4/4 [00:00<00:00, 8928.80it/s]Processed noniso_3_networkx/graph_0.edgelist: Greedy MIS size = 3
-Processed noniso_3_networkx/graph_1.edgelist: Greedy MIS size = 2
-Processed noniso_3_networkx/graph_3.edgelist: Greedy MIS size = 1
-Processed noniso_3_networkx/graph_2.edgelist: Greedy MIS size = 2
-
-All tasks processed. Collected results for 4 graphs.
-Greedy MIS results saved to 'greedy_mis_results_3.json'.
-
-Total graphs compared: 4
-Number of mismatches: 0
