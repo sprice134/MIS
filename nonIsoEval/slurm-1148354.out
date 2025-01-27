@@ -1,0 +1,44 @@
+Running job on compute-3-02
+Requested resources:
+  - CPUs: 16
+  - GPUs: 
+  - Memory: 16000
+  - Number of Nodes: 4
+Generating non-isomorphic graphs for n=4...
+Total subsets to process: 64
+Using 192 workers and chunk size of 10000
+Processing chunks:   0%|          | 0/1 [00:00<?, ?it/s]Processing chunks: 100%|██████████| 1/1 [00:00<00:00, 413.11it/s]Total non-isomorphic graphs found: 11
+Writing graphs to 'noniso_4_networkx'...
+
+Writing graphs:   0%|          | 0/11 [00:00<?, ?it/s]Writing graphs: 100%|██████████| 11/11 [00:00<00:00, 442.88it/s]
+All non-isomorphic graphs have been written to 'noniso_4_networkx'.
+Found 11 .edgelist files to process in 'noniso_4_networkx'.
+Using 192 parallel processes.
+Processed noniso_4_networkx/graph_10.edgelist: MIS size = 1
+Processed noniso_4_networkx/graph_0.edgelist: MIS size = 4
+Processed noniso_4_networkx/graph_7.edgelist: MIS size = 2
+Processed noniso_4_networkx/graph_5.edgelist: MIS size = 2
+Processed noniso_4_networkx/graph_8.edgelist: MIS size = 2
+Processed noniso_4_networkx/graph_6.edgelist: MIS size = 2
+Processed noniso_4_networkx/graph_1.edgelist: MIS size = 3
+All tasks processed. Total results collected: 11
+Results saved to 'mis_results_4.json'.
+Found 11 .edgelist files in 'noniso_4_networkx'.
+Using 11 parallel processes.
+Processing graphs:   0%|          | 0/11 [00:00<?, ?it/s]Processing graphs: 100%|██████████| 11/11 [00:00<00:00, 19574.61it/s]Processed noniso_4_networkx/graph_1.edgelist: Greedy MIS size = 3
+Processed noniso_4_networkx/graph_0.edgelist: Greedy MIS size = 4
+Processed noniso_4_networkx/graph_2.edgelist: Greedy MIS size = 3
+Processed noniso_4_networkx/graph_4.edgelist: Greedy MIS size = 3
+Processed noniso_4_networkx/graph_10.edgelist: Greedy MIS size = 1
+Processed noniso_4_networkx/graph_6.edgelist: Greedy MIS size = 2
+Processed noniso_4_networkx/graph_3.edgelist: Greedy MIS size = 2
+Processed noniso_4_networkx/graph_5.edgelist: Greedy MIS size = 2
+Processed noniso_4_networkx/graph_7.edgelist: Greedy MIS size = 2
+Processed noniso_4_networkx/graph_9.edgelist: Greedy MIS size = 2
+Processed noniso_4_networkx/graph_8.edgelist: Greedy MIS size = 2
+
+All tasks processed. Collected results for 11 graphs.
+Greedy MIS results saved to 'greedy_mis_results_4.json'.
+
+Total graphs compared: 11
+Number of mismatches: 0

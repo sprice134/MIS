@@ -1,0 +1,94 @@
+[
+  {
+    "file_path": "noniso_4_networkx/graph_10.edgelist",
+    "mis_size": 1,
+    "maximum_independent_set": [
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_4_networkx/graph_0.edgelist",
+    "mis_size": 4,
+    "maximum_independent_set": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_4_networkx/graph_1.edgelist",
+    "mis_size": 3,
+    "maximum_independent_set": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_4_networkx/graph_4.edgelist",
+    "mis_size": 3,
+    "maximum_independent_set": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_4_networkx/graph_3.edgelist",
+    "mis_size": 2,
+    "maximum_independent_set": [
+      0,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_4_networkx/graph_7.edgelist",
+    "mis_size": 2,
+    "maximum_independent_set": [
+      1,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_4_networkx/graph_5.edgelist",
+    "mis_size": 2,
+    "maximum_independent_set": [
+      0,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_4_networkx/graph_8.edgelist",
+    "mis_size": 2,
+    "maximum_independent_set": [
+      0,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_4_networkx/graph_6.edgelist",
+    "mis_size": 2,
+    "maximum_independent_set": [
+      0,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_4_networkx/graph_2.edgelist",
+    "mis_size": 3,
+    "maximum_independent_set": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "file_path": "noniso_4_networkx/graph_9.edgelist",
+    "mis_size": 2,
+    "maximum_independent_set": [
+      2,
+      3
+    ]
+  }
+]

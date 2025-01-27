@@ -262,7 +262,9 @@ def main():
 
 if __name__ == "__main__":
     main()
-    # python evaluate_iso_greedy_all.py --graph_dir noniso_5_networkx --nodes 5 --mis_json mis_results_5.json --greedy_mis_json greedy_mis_results_5.json --output_csv evaluation_results_6.csv
+    # python evaluate_iso_greedy_all.py --graph_dir noniso_3_networkx --nodes 3 --mis_json mis_results_3.json --greedy_mis_json greedy_mis_results_3.json --output_csv evaluation_results_3.csv
+    # python evaluate_iso_greedy_all.py --graph_dir noniso_4_networkx --nodes 4 --mis_json mis_results_4.json --greedy_mis_json greedy_mis_results_4.json --output_csv evaluation_results_4.csv
+    # python evaluate_iso_greedy_all.py --graph_dir noniso_5_networkx --nodes 5 --mis_json mis_results_5.json --greedy_mis_json greedy_mis_results_5.json --output_csv evaluation_results_5.csv
     # python evaluate_iso_greedy_all.py --graph_dir noniso_6_networkx --nodes 6 --mis_json mis_results_6.json --greedy_mis_json greedy_mis_results_6.json --output_csv evaluation_results_6.csv
     # python evaluate_iso_greedy_all.py --graph_dir noniso_7_networkx --nodes 7 --mis_json mis_results_7.json --greedy_mis_json greedy_mis_results_7.json --output_csv evaluation_results_7.csv
 

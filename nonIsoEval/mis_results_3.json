@@ -1,0 +1,34 @@
+[
+  {
+    "file_path": "noniso_3_networkx/graph_1.edgelist",
+    "mis_size": 2,
+    "maximum_independent_set": [
+      0,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_3_networkx/graph_0.edgelist",
+    "mis_size": 3,
+    "maximum_independent_set": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "file_path": "noniso_3_networkx/graph_3.edgelist",
+    "mis_size": 1,
+    "maximum_independent_set": [
+      0
+    ]
+  },
+  {
+    "file_path": "noniso_3_networkx/graph_2.edgelist",
+    "mis_size": 2,
+    "maximum_independent_set": [
+      1,
+      2
+    ]
+  }
+]
