@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# python analysis.py --nodes 7 --gt mis_results_7.json --greedy greedy_mis_results_7.json
+
 import json
 import argparse
 import os
