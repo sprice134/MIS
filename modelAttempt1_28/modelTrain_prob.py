@@ -5,7 +5,7 @@ import json
 import torch
 from torch.utils.data import random_split
 from torch_geometric.loader import DataLoader as GeometricDataLoader
-from tools2 import MISGraphDataset, GCNForMIS, EarlyStopping, train, evaluate, calculate_baseline_mae
+from tools3 import MISGraphDataset, GCNForMIS, EarlyStopping, train, evaluate, calculate_baseline_mae
 from sklearn.metrics import confusion_matrix
 import argparse
 import random
@@ -286,6 +286,18 @@ if __name__ == "__main__":
         --node_counts 10 15 20 25 30 35 40 45 50\
         --removal_percents 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 \
         --output_dir mis_results_grouped \
+        --batch_size 16\
+        --hidden_channels 64 \
+        --num_layers 8 \
+        --learning_rate 0.005 \
+        --epochs 1000 \
+        --patience 20 \
+        --model_save_path best_model_prob.pth
+
+    python modelTrain_prob.py \
+        --node_counts 10 15 20 25 30 35 40 \
+        --removal_percents 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 \
+        --output_dir mis_results_grouped_v2 \
         --batch_size 16\
         --hidden_channels 64 \
         --num_layers 8 \

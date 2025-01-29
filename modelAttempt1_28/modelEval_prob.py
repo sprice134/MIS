@@ -23,6 +23,19 @@ if torch.cuda.is_available():
 torch.backends.cudnn.deterministic = True
 torch.backends.cudnn.benchmark = False
 
+def data_to_nx(data):
+    """
+    Convert a PyG Data object to a networkx.Graph.
+    """
+    G = nx.Graph()
+    num_nodes = data.num_nodes
+    G.add_nodes_from(range(num_nodes))
+
+    # edge_index is [2, E], so transpose and convert to list of (u,v)
+    edges = data.edge_index.t().tolist()
+    G.add_edges_from(edges)
+    return G
+
 
 def gather_json_and_edgelist_paths(output_dir, node_counts, removal_percents):
     """
@@ -304,21 +317,7 @@ def main():
     print("\nEvaluating on the Test Set and Generating CSV...")
 
     for idx, data in enumerate(test_loader):
-        # Assuming 'file_path' is stored in data.file_path
-        # Modify based on actual dataset implementation
-        file_path = data.file_path[0] if hasattr(data, 'file_path') else "unknown_path"
-
-        num_nodes = data.num_nodes
-        edgelist_dir = data.edgelist_dir[0] if hasattr(data, 'edgelist_dir') else None
-        edgelist_path = os.path.join(edgelist_dir, f"graph_{idx}.edgelist") if edgelist_dir else None
-
-        if edgelist_path and os.path.exists(edgelist_path):
-            G = load_graph_from_edgelist(edgelist_path, num_nodes)
-        else:
-            print(f"Warning: Edgelist path '{edgelist_path}' does not exist. Skipping graph.")
-            continue
-
-        # Compute standard greedy MIS
+        G = data_to_nx(data)  # build NX graph from data.edge_index
         standard_mis = greedy_mis(G)
         standard_mis_size = len(standard_mis)
 
@@ -332,13 +331,13 @@ def main():
         with torch.no_grad():
             out = model(data)  # Shape: [num_nodes]
             probs = torch.sigmoid(out).cpu().numpy()  # Apply sigmoid if model outputs logits
-
+        print(set(probs))
         # Compute augmented greedy MIS using threshold X
         augmented_mis = augmented_greedy_mis(G, probs, THRESHOLD_X)
         augmented_mis_size = len(augmented_mis)
 
         # Append to CSV rows
-        csv_rows.append([file_path, true_mis_size, standard_mis_size, augmented_mis_size])
+        csv_rows.append(['file_path', true_mis_size, standard_mis_size, augmented_mis_size])
 
         # Collect predictions and labels for confusion matrix
         # Binarize based on threshold X for augmented MIS

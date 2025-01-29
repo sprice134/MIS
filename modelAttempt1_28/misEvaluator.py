@@ -10,19 +10,48 @@ from functools import partial
 import argparse
 
 def load_graph(file_path):
-    """Load a graph from an edge list file and ensure all nodes are present."""
-    try:
-        G = nx.read_edgelist(file_path, nodetype=int)
-        # Identify the highest node ID to determine the total number of nodes
-        if len(G.nodes()) == 0:
-            return G
-        max_node = max(G.nodes())
-        # Ensure all nodes from 0 to max_node are present (add isolated nodes if necessary)
-        G.add_nodes_from(range(max_node + 1))
-        return G
-    except Exception as e:
-        print(f"Error loading graph from {file_path}: {e}")
-        return nx.Graph()  # Return an empty graph on failure
+    """
+    Load a graph from an edge list file, ensuring single-token lines
+    become isolated nodes, and multi-token lines become edges.
+    """
+    edges = []
+    isolated_nodes = set()
+    max_node_id = 0
+
+    # 1) Parse the file line by line ourselves
+    with open(file_path, 'r') as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue  # skip blank lines
+            parts = line.split()
+            if len(parts) == 2:
+                # Format: "u v"
+                u, v = map(int, parts)
+                edges.append((u, v))
+                max_node_id = max(max_node_id, u, v)
+            elif len(parts) == 1:
+                # Single token -> an isolated node
+                node_id = int(parts[0])
+                isolated_nodes.add(node_id)
+                max_node_id = max(max_node_id, node_id)
+            else:
+                # Skip or warn about unexpected line formats
+                print(f"Warning: ignoring malformed line in {file_path}: {line}")
+
+    # 2) Build the graph
+    G = nx.Graph()
+    # Add all nodes from 0..max_node_id so that "missing" nodes also appear
+    G.add_nodes_from(range(max_node_id + 1))
+    # Add edges
+    for (u, v) in edges:
+        G.add_edge(u, v)
+    # Also ensure single-token nodes are definitely included
+    for node in isolated_nodes:
+        G.add_node(node)
+
+    return G
+
 
 def all_maximum_independent_sets_bruteforce(G):
     """
@@ -292,4 +321,5 @@ if __name__ == "__main__":
 #   --output_dir mis_results_grouped
 
 #     python misEvaluator.py --node_counts 10 15 20 25 30 --base_dir generated_graphs --output_dir mis_results_grouped
-#     python misEvaluator.py --node_counts 35 40 45 50 --base_dir generated_graphs --output_dir mis_results_grouped
+#     python misEvaluator.py --node_counts 45 50 --base_dir generated_graphs --output_dir mis_results_grouped_v2
+

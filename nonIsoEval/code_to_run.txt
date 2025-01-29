@@ -4,3 +4,8 @@ python calculate_greedy_mis.py --nodes 7 --input_dir noniso_7_networkx --output_
 python analysis.py --nodes 7 --gt mis_results_7.json --greedy greedy_mis_results_7.json
 
 python generate_noniso_graphs.py --nodes 8 --outdir noniso_8_networkx
+
+
+python analysis.py --nodes 7 --gt outputFiles/mis_results_7.json --greedy outputFiles/greedy_mis_results_7.json
+
+python analysis.py --nodes 8 --gt outputFiles/mis_results_8.json --greedy outputFiles/greedy_mis_results_8.json

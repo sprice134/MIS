@@ -17,6 +17,7 @@ JSON_PATHS = [
     "all_mis_results_5.json",
     "all_mis_results_6.json",
     "all_mis_results_7.json",
+    "all_mis_results_8.json",
 ]
 
 EDGELIST_DIRS = [
@@ -25,6 +26,7 @@ EDGELIST_DIRS = [
     "../nonIsoEval/noniso_5_networkx",
     "../nonIsoEval/noniso_6_networkx",
     "../nonIsoEval/noniso_7_networkx",
+    "../nonIsoEval/noniso_8_networkx",
 ]
 
 BATCH_SIZE = 16

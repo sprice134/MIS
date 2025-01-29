@@ -1,4 +1,4 @@
-# tools.py
+# tools2.py
 
 import os
 import json
@@ -30,66 +30,77 @@ class MISGraphDataset(Dataset):
         Args:
             json_paths (list of str): List of JSON file paths containing MIS results.
             edgelist_dirs (list of str): List of directories containing .edgelist files.
-            label_type (str): Type of labels to use. Options are 'binary' or 'prob'.
+            label_type (str): Type of labels to use. Options are 'binary', 'prob', or None for inference.
         """
         super().__init__()
 
-        # Ensure the lists are of the same length
-        assert len(json_paths) == len(edgelist_dirs), \
-            "JSON_PATHS and EDGELIST_DIRS must have the same length."
+        # Determine if the dataset is in inference mode (no labels)
+        self.inference_mode = not bool(json_paths)
 
-        self.file_paths = []
-        self.labels_dict = {}
-        self.label_type = label_type.lower()
+        if self.inference_mode:
+            # Inference mode: No labels provided
+            self.file_paths = edgelist_dirs  # edgelist_dirs contains paths to .edgelist files
+            self.labels_dict = {path: None for path in self.file_paths}
+            self.label_type = None
+        else:
+            # Training/Validation/Test mode: Labels required
+            if len(json_paths) != len(edgelist_dirs):
+                raise AssertionError(
+                    "JSON_PATHS and EDGELIST_DIRS must have the same length."
+                )
 
-        if self.label_type not in ['binary', 'prob']:
-            raise ValueError("label_type must be either 'binary' or 'prob'.")
+            self.file_paths = []
+            self.labels_dict = {}
+            self.label_type = label_type.lower()
 
-        # Iterate over each (json_path, edgelist_dir) pair
-        for json_path, edgelist_dir in zip(json_paths, edgelist_dirs):
-            # Load the JSON file
-            if not os.path.exists(json_path):
-                print(f"Warning: JSON file '{json_path}' does not exist. Skipping.")
-                continue
+            if self.label_type not in ['binary', 'prob']:
+                raise ValueError("label_type must be either 'binary' or 'prob'.")
 
-            with open(json_path, 'r') as f:
-                try:
-                    mis_data = json.load(f)  # Expecting a list of dictionaries
-                except json.JSONDecodeError as e:
-                    print(f"Error decoding JSON file '{json_path}': {e}")
+            # Iterate over each (json_path, edgelist_dir) pair
+            for json_path, edgelist_dir in zip(json_paths, edgelist_dirs):
+                # Load the JSON file
+                if not os.path.exists(json_path):
+                    print(f"Warning: JSON file '{json_path}' does not exist. Skipping.")
                     continue
 
-            # Process each entry in the JSON
-            for entry in mis_data:
-                base_name = os.path.basename(entry.get("file_path", ""))
-                if not base_name:
-                    print(f"Warning: Missing 'file_path' in entry {entry}. Skipping.")
-                    continue
+                with open(json_path, 'r') as f:
+                    try:
+                        mis_data = json.load(f)  # Expecting a list of dictionaries
+                    except json.JSONDecodeError as e:
+                        print(f"Error decoding JSON file '{json_path}': {e}")
+                        continue
 
-                full_edgelist_path = os.path.join(edgelist_dir, base_name)
-                if self.label_type == 'binary':
-                    label_key = "MIS_CELLS"
-                else:
-                    label_key = "MIS_CELLS_PROB"
+                # Process each entry in the JSON
+                for entry in mis_data:
+                    base_name = os.path.basename(entry.get("file_path", ""))
+                    if not base_name:
+                        print(f"Warning: Missing 'file_path' in entry {entry}. Skipping.")
+                        continue
 
-                labels = entry.get(label_key, [])
+                    full_edgelist_path = os.path.join(edgelist_dir, base_name)
+                    if self.label_type == 'binary':
+                        label_key = "MIS_CELLS"
+                    else:
+                        label_key = "MIS_CELLS_PROB"
 
-                if not os.path.exists(full_edgelist_path):
-                    print(f"Warning: Edgelist file '{full_edgelist_path}' does not exist. Skipping.")
-                    continue
+                    labels = entry.get(label_key, [])
 
-                if not isinstance(labels, list):
-                    print(f"Warning: '{label_key}' for '{full_edgelist_path}' is not a list. Skipping.")
-                    continue
+                    if not os.path.exists(full_edgelist_path):
+                        print(f"Warning: Edgelist file '{full_edgelist_path}' does not exist. Skipping.")
+                        continue
 
-                self.file_paths.append(full_edgelist_path)
-                self.labels_dict[full_edgelist_path] = labels
+                    if not isinstance(labels, list):
+                        print(f"Warning: '{label_key}' for '{full_edgelist_path}' is not a list. Skipping.")
+                        continue
 
-        # Sort for reproducibility
-        self.file_paths.sort()
+                    self.file_paths.append(full_edgelist_path)
+                    self.labels_dict[full_edgelist_path] = labels
 
-        if not self.file_paths:
-            print("Warning: No valid .edgelist files found across all JSONs/directories!")
+            # Sort for reproducibility
+            self.file_paths.sort()
+
+            if not self.file_paths:
+                print("Warning: No valid .edgelist files found across all JSONs/directories!")
 
     def __len__(self):
         return len(self.file_paths)
@@ -145,32 +156,37 @@ class MISGraphDataset(Dataset):
         # Node features (all ones)
         x = torch.ones((num_nodes, 1), dtype=torch.float)
 
-        # Retrieve and reindex labels
-        full_label_array = self.labels_dict.get(graph_path, [])
-        if self.label_type == 'binary':
-            expected_length = max(unique_nodes) + 1 if unique_nodes else 0
-            if len(full_label_array) < expected_length:
-                print(f"Warning: 'MIS_CELLS' length for '{graph_path}' is shorter than expected. Padding with zeros.")
-                full_label_array += [0] * (expected_length - len(full_label_array))
+        # Handle labels based on mode
+        if self.inference_mode:
+            # In inference mode, labels are not used
+            y = torch.zeros(num_nodes, dtype=torch.float)  # Dummy labels
+        else:
+            # Retrieve and reindex labels
+            full_label_array = self.labels_dict.get(graph_path, [])
+            if self.label_type == 'binary':
+                expected_length = max(unique_nodes) + 1 if unique_nodes else 0
+                if len(full_label_array) < expected_length:
+                    print(f"Warning: 'MIS_CELLS' length for '{graph_path}' is shorter than expected. Padding with zeros.")
+                    full_label_array += [0] * (expected_length - len(full_label_array))
 
-            try:
-                y_list = [full_label_array[old_id] for old_id in unique_nodes]
-            except IndexError as e:
-                print(f"Error: {e} when accessing 'MIS_CELLS' for '{graph_path}'. Assigning zeros.")
-                y_list = [0] * num_nodes
-        else:  # label_type == 'prob'
-            expected_length = max(unique_nodes) + 1 if unique_nodes else 0
-            if len(full_label_array) < expected_length:
-                print(f"Warning: 'MIS_CELLS_PROB' length for '{graph_path}' is shorter than expected. Padding with zeros.")
-                full_label_array += [0.0] * (expected_length - len(full_label_array))
+                try:
+                    y_list = [full_label_array[old_id] for old_id in unique_nodes]
+                except IndexError as e:
+                    print(f"Error: {e} when accessing 'MIS_CELLS' for '{graph_path}'. Assigning zeros.")
+                    y_list = [0] * num_nodes
+            else:  # label_type == 'prob'
+                expected_length = max(unique_nodes) + 1 if unique_nodes else 0
+                if len(full_label_array) < expected_length:
+                    print(f"Warning: 'MIS_CELLS_PROB' length for '{graph_path}' is shorter than expected. Padding with zeros.")
+                    full_label_array += [0.0] * (expected_length - len(full_label_array))
 
-            try:
-                y_list = [float(full_label_array[old_id]) for old_id in unique_nodes]
-            except (IndexError, ValueError) as e:
-                print(f"Error: {e} when accessing 'MIS_CELLS_PROB' for '{graph_path}'. Assigning zeros.")
-                y_list = [0.0] * num_nodes
+                try:
+                    y_list = [float(full_label_array[old_id]) for old_id in unique_nodes]
+                except (IndexError, ValueError) as e:
+                    print(f"Error: {e} when accessing 'MIS_CELLS_PROB' for '{graph_path}'. Assigning zeros.")
+                    y_list = [0.0] * num_nodes
 
-        y = torch.tensor(y_list, dtype=torch.float)
+            y = torch.tensor(y_list, dtype=torch.float)
 
         # Create PyG Data object
         data = Data(x=x, edge_index=edge_index, y=y)
