@@ -1,10 +1,10 @@
 #!/bin/bash
-#SBATCH --job-name=70    # Job name
-#SBATCH --cpus-per-task=64               # Number of CPU cores
-#SBATCH --gres=gpu:0                    # Number of GPUs
-#SBATCH --mem=64000MB                   # Memory in MB
-#SBATCH --time=48:00:00                 # Time limit (HH:MM:SS)
-#SBATCH --partition=long               # Partition name
+#SBATCH --job-name=optuna_mis    # Job name
+#SBATCH --cpus-per-task=128               # Number of CPU cores
+#SBATCH --gres=gpu:1                    # Number of GPUs
+#SBATCH --mem=128000MB                   # Memory in MB
+#SBATCH --time=24:00:00                 # Time limit (HH:MM:SS)
+#SBATCH --partition=short               # Partition name
 
 # Print some job information
 echo "Running job on $SLURM_JOB_NODELIST"
@@ -25,7 +25,27 @@ source /home/sprice/MIS/nodeCreator/bin/activate
 # python compute_mis_commandLine_v2.py --node_counts 110
 # python compute_mis_commandLine_v2.py --node_counts 115
 # python compute_mis_commandLine_v2.py --node_counts 120
-python compute_mis_commandLine_v2.py --node_counts 75
+cd modelAttempt2_5
 
+# python modelTrain_prob.py \
+#         --node_counts 10 15 20 25 30 35 40 45 50 55 60 65 70 75\
+#         --removal_percents 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 \
+#         --output_dir mis_results_grouped_v3 \
+#         --batch_size 64\
+#         --hidden_channels 125 \
+#         --num_layers 64 \
+#         --learning_rate 0.005 \
+#         --epochs 1000 \
+#         --patience 20 \
+#         --model_save_path best_model_prob_64_125_64_0.005_v3.pth
+
+# python misEvaluator.py --node_counts 55 --base_dir generated_graphs --output_dir mis_results_grouped_v3
+# python misEvaluator.py --node_counts 60 --base_dir generated_graphs --output_dir mis_results_grouped_v3
+# python misEvaluator.py --node_counts 65 --base_dir test_generated_graphs --output_dir test_mis_results_grouped_v3
+
+# python dataCreator.py
+# python misEvaluator_optimized.py --node_counts 75 --base_dir test_generated_graphs --output_dir test_mis_results_grouped_v3
+python optuna_mis_train.py --n_trials 25 --output_dir mis_results_grouped_v3
+# python misEvaluator_optimized.py --node_counts 80 --base_dir generated_graphs --output_dir mis_results_grouped_v3
 
 # python compute_greedy_mis_commandline.py --node_counts 100 105 110 115 120 125 130 135 140 145 150

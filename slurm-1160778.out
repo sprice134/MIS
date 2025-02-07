@@ -1,0 +1,6 @@
+Running job on compute-0-01
+Requested resources:
+  - CPUs: 128
+  - GPUs: 
+  - Memory: 128000
+slurmstepd: error: *** JOB 1160778 ON compute-0-01 CANCELLED AT 2025-02-06T22:59:02 ***

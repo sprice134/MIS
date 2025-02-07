@@ -1,0 +1,151 @@
+Running job on gpu-5-25
+Requested resources:
+  - CPUs: 64
+  - GPUs: 
+  - Memory: 128000
+modelTrain_prob.py:229: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  model.load_state_dict(torch.load(MODEL_SAVE_PATH))
+Total JSON files found: 210
+Total edgelist directories found: 210
+Total graphs in dataset: 21000
+Train Dataset Size: 16800
+Validation Dataset Size: 4200
+
+Calculating baseline MAE (predicting 0.5 for every node):
+Baseline Training MAE: 0.4144
+Baseline Validation MAE: 0.4146
+Epoch 001 | Train Loss: 0.4609 | Validation Loss: 0.4536 | Validation MAE: 0.2166
+Epoch 002 | Train Loss: 0.4519 | Validation Loss: 0.4494 | Validation MAE: 0.2138
+Epoch 003 | Train Loss: 0.4470 | Validation Loss: 0.4443 | Validation MAE: 0.2093
+Epoch 004 | Train Loss: 0.4420 | Validation Loss: 0.4402 | Validation MAE: 0.2045
+Epoch 005 | Train Loss: 0.4376 | Validation Loss: 0.4345 | Validation MAE: 0.2060
+Epoch 006 | Train Loss: 0.4318 | Validation Loss: 0.4328 | Validation MAE: 0.1906
+Epoch 007 | Train Loss: 0.4247 | Validation Loss: 0.4211 | Validation MAE: 0.1904
+Epoch 008 | Train Loss: 0.4149 | Validation Loss: 0.4095 | Validation MAE: 0.1953
+Epoch 009 | Train Loss: 0.4046 | Validation Loss: 0.4002 | Validation MAE: 0.1904
+Epoch 010 | Train Loss: 0.3952 | Validation Loss: 0.3917 | Validation MAE: 0.1792
+Epoch 011 | Train Loss: 0.3897 | Validation Loss: 0.3870 | Validation MAE: 0.1741
+Epoch 012 | Train Loss: 0.3850 | Validation Loss: 0.3890 | Validation MAE: 0.1637
+Epoch 013 | Train Loss: 0.3826 | Validation Loss: 0.3829 | Validation MAE: 0.1742
+Epoch 014 | Train Loss: 0.3805 | Validation Loss: 0.3804 | Validation MAE: 0.1658
+Epoch 015 | Train Loss: 0.3784 | Validation Loss: 0.3788 | Validation MAE: 0.1662
+Epoch 016 | Train Loss: 0.3773 | Validation Loss: 0.3823 | Validation MAE: 0.1771
+Epoch 017 | Train Loss: 0.3769 | Validation Loss: 0.3769 | Validation MAE: 0.1672
+Epoch 018 | Train Loss: 0.3751 | Validation Loss: 0.3766 | Validation MAE: 0.1686
+Epoch 019 | Train Loss: 0.3744 | Validation Loss: 0.3751 | Validation MAE: 0.1663
+Epoch 020 | Train Loss: 0.3736 | Validation Loss: 0.3738 | Validation MAE: 0.1606
+Epoch 021 | Train Loss: 0.3728 | Validation Loss: 0.3730 | Validation MAE: 0.1617
+Epoch 022 | Train Loss: 0.3718 | Validation Loss: 0.3729 | Validation MAE: 0.1579
+Epoch 023 | Train Loss: 0.3715 | Validation Loss: 0.3718 | Validation MAE: 0.1605
+Epoch 024 | Train Loss: 0.3710 | Validation Loss: 0.3714 | Validation MAE: 0.1605
+Epoch 025 | Train Loss: 0.3702 | Validation Loss: 0.3718 | Validation MAE: 0.1557
+Epoch 026 | Train Loss: 0.3700 | Validation Loss: 0.3711 | Validation MAE: 0.1560
+Epoch 027 | Train Loss: 0.3697 | Validation Loss: 0.3708 | Validation MAE: 0.1550
+Epoch 028 | Train Loss: 0.3694 | Validation Loss: 0.3701 | Validation MAE: 0.1608
+Epoch 029 | Train Loss: 0.3691 | Validation Loss: 0.3703 | Validation MAE: 0.1541
+Epoch 030 | Train Loss: 0.3687 | Validation Loss: 0.3691 | Validation MAE: 0.1576
+Epoch 031 | Train Loss: 0.3687 | Validation Loss: 0.3751 | Validation MAE: 0.1500
+Epoch 032 | Train Loss: 0.3685 | Validation Loss: 0.3691 | Validation MAE: 0.1595
+Epoch 033 | Train Loss: 0.3677 | Validation Loss: 0.3705 | Validation MAE: 0.1635
+Epoch 034 | Train Loss: 0.3677 | Validation Loss: 0.3702 | Validation MAE: 0.1515
+Epoch 035 | Train Loss: 0.3675 | Validation Loss: 0.3699 | Validation MAE: 0.1514
+Epoch 036 | Train Loss: 0.3677 | Validation Loss: 0.3680 | Validation MAE: 0.1547
+Epoch 037 | Train Loss: 0.3674 | Validation Loss: 0.3688 | Validation MAE: 0.1601
+Epoch 038 | Train Loss: 0.3673 | Validation Loss: 0.3687 | Validation MAE: 0.1519
+Epoch 039 | Train Loss: 0.3671 | Validation Loss: 0.3679 | Validation MAE: 0.1533
+Epoch 040 | Train Loss: 0.3671 | Validation Loss: 0.3677 | Validation MAE: 0.1534
+Epoch 041 | Train Loss: 0.3667 | Validation Loss: 0.3693 | Validation MAE: 0.1502
+Epoch 042 | Train Loss: 0.3669 | Validation Loss: 0.3686 | Validation MAE: 0.1601
+Epoch 043 | Train Loss: 0.3666 | Validation Loss: 0.3673 | Validation MAE: 0.1550
+Epoch 044 | Train Loss: 0.3666 | Validation Loss: 0.3692 | Validation MAE: 0.1498
+Epoch 045 | Train Loss: 0.3666 | Validation Loss: 0.3712 | Validation MAE: 0.1483
+Epoch 046 | Train Loss: 0.3664 | Validation Loss: 0.3671 | Validation MAE: 0.1542
+Epoch 047 | Train Loss: 0.3664 | Validation Loss: 0.3717 | Validation MAE: 0.1480
+Epoch 048 | Train Loss: 0.3665 | Validation Loss: 0.3672 | Validation MAE: 0.1564
+Epoch 049 | Train Loss: 0.3663 | Validation Loss: 0.3673 | Validation MAE: 0.1518
+Epoch 050 | Train Loss: 0.3663 | Validation Loss: 0.3672 | Validation MAE: 0.1518
+Epoch 051 | Train Loss: 0.3662 | Validation Loss: 0.3681 | Validation MAE: 0.1501
+Epoch 052 | Train Loss: 0.3662 | Validation Loss: 0.3687 | Validation MAE: 0.1491
+Epoch 053 | Train Loss: 0.3661 | Validation Loss: 0.3668 | Validation MAE: 0.1529
+Epoch 054 | Train Loss: 0.3661 | Validation Loss: 0.3676 | Validation MAE: 0.1581
+Epoch 055 | Train Loss: 0.3658 | Validation Loss: 0.3667 | Validation MAE: 0.1531
+Epoch 056 | Train Loss: 0.3665 | Validation Loss: 0.3675 | Validation MAE: 0.1503
+Epoch 057 | Train Loss: 0.3666 | Validation Loss: 0.3668 | Validation MAE: 0.1549
+Epoch 058 | Train Loss: 0.3662 | Validation Loss: 0.3684 | Validation MAE: 0.1489
+Epoch 059 | Train Loss: 0.3662 | Validation Loss: 0.3676 | Validation MAE: 0.1580
+Epoch 060 | Train Loss: 0.3657 | Validation Loss: 0.3669 | Validation MAE: 0.1513
+Epoch 061 | Train Loss: 0.3668 | Validation Loss: 0.3688 | Validation MAE: 0.1607
+Epoch 062 | Train Loss: 0.3657 | Validation Loss: 0.3666 | Validation MAE: 0.1526
+Epoch 063 | Train Loss: 0.3660 | Validation Loss: 0.3676 | Validation MAE: 0.1497
+Epoch 064 | Train Loss: 0.3661 | Validation Loss: 0.3676 | Validation MAE: 0.1579
+Epoch 065 | Train Loss: 0.3660 | Validation Loss: 0.3667 | Validation MAE: 0.1546
+Epoch 066 | Train Loss: 0.3660 | Validation Loss: 0.3665 | Validation MAE: 0.1530
+Epoch 067 | Train Loss: 0.3659 | Validation Loss: 0.3666 | Validation MAE: 0.1539
+Epoch 068 | Train Loss: 0.3660 | Validation Loss: 0.3666 | Validation MAE: 0.1524
+Epoch 069 | Train Loss: 0.3661 | Validation Loss: 0.3704 | Validation MAE: 0.1634
+Epoch 070 | Train Loss: 0.3667 | Validation Loss: 0.3668 | Validation MAE: 0.1510
+Epoch 071 | Train Loss: 0.3657 | Validation Loss: 0.3673 | Validation MAE: 0.1498
+Epoch 072 | Train Loss: 0.3659 | Validation Loss: 0.3668 | Validation MAE: 0.1552
+Epoch 073 | Train Loss: 0.3658 | Validation Loss: 0.3665 | Validation MAE: 0.1531
+Epoch 074 | Train Loss: 0.3662 | Validation Loss: 0.3691 | Validation MAE: 0.1611
+Epoch 075 | Train Loss: 0.3657 | Validation Loss: 0.3669 | Validation MAE: 0.1559
+Epoch 076 | Train Loss: 0.3657 | Validation Loss: 0.3665 | Validation MAE: 0.1519
+Epoch 077 | Train Loss: 0.3662 | Validation Loss: 0.3682 | Validation MAE: 0.1593
+Epoch 078 | Train Loss: 0.3657 | Validation Loss: 0.3671 | Validation MAE: 0.1499
+Epoch 079 | Train Loss: 0.3659 | Validation Loss: 0.3666 | Validation MAE: 0.1514
+Epoch 080 | Train Loss: 0.3659 | Validation Loss: 0.3679 | Validation MAE: 0.1487
+Epoch 081 | Train Loss: 0.3665 | Validation Loss: 0.3668 | Validation MAE: 0.1508
+Epoch 082 | Train Loss: 0.3657 | Validation Loss: 0.3676 | Validation MAE: 0.1492
+Epoch 083 | Train Loss: 0.3656 | Validation Loss: 0.3665 | Validation MAE: 0.1539
+Epoch 084 | Train Loss: 0.3659 | Validation Loss: 0.3668 | Validation MAE: 0.1554
+Epoch 085 | Train Loss: 0.3659 | Validation Loss: 0.3682 | Validation MAE: 0.1482
+Epoch 086 | Train Loss: 0.3659 | Validation Loss: 0.3794 | Validation MAE: 0.1750
+Epoch 087 | Train Loss: 0.3664 | Validation Loss: 0.3678 | Validation MAE: 0.1583
+Epoch 088 | Train Loss: 0.3659 | Validation Loss: 0.3674 | Validation MAE: 0.1494
+Epoch 089 | Train Loss: 0.3654 | Validation Loss: 0.3696 | Validation MAE: 0.1469
+Epoch 090 | Train Loss: 0.3658 | Validation Loss: 0.3665 | Validation MAE: 0.1518
+Epoch 091 | Train Loss: 0.3660 | Validation Loss: 0.3667 | Validation MAE: 0.1550
+Epoch 092 | Train Loss: 0.3660 | Validation Loss: 0.3671 | Validation MAE: 0.1564
+Epoch 093 | Train Loss: 0.3658 | Validation Loss: 0.3677 | Validation MAE: 0.1486
+Early stopping triggered. Stopping training.
+Loaded the best model from 'best_model_prob_64_125_64_0.005_v3.pth'.
+
+Test Loss: 0.3665 | Test MAE: 0.1531
+
+Confusion Matrix and F1 Score for Different Thresholds:
+
+Threshold: 0.1531
+Confusion Matrix:
+[[107786  41766]
+ [  4649  22954]]
+Precision: 0.3547, Recall: 0.8316, F1 Score: 0.4973
+
+Threshold: 0.1000
+Confusion Matrix:
+[[77513 72039]
+ [ 2097 25506]]
+Precision: 0.2615, Recall: 0.9240, F1 Score: 0.4076
+
+Threshold: 0.2000
+Confusion Matrix:
+[[121507  28045]
+ [  6852  20751]]
+Precision: 0.4253, Recall: 0.7518, F1 Score: 0.5432
+
+Threshold: 0.3000
+Confusion Matrix:
+[[135534  14018]
+ [ 11002  16601]]
+Precision: 0.5422, Recall: 0.6014, F1 Score: 0.5703
+
+Threshold: 0.4000
+Confusion Matrix:
+[[142103   7449]
+ [ 14362  13241]]
+Precision: 0.6400, Recall: 0.4797, F1 Score: 0.5484
+
+Threshold: 0.5000
+Confusion Matrix:
+[[145499   4053]
+ [ 17324  10279]]
+Precision: 0.7172, Recall: 0.3724, F1 Score: 0.4902
