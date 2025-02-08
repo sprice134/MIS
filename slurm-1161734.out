@@ -1,0 +1,11 @@
+Running job on gpu-5-11
+Requested resources:
+  - CPUs: 32
+  - GPUs: 
+  - Memory: 64000
+Processing node counts: [75]
+Processing removal percentages: [85]
+Iterations per combination: 10
+Base directory: 'test_generated_graphs', Output directory: 'test_mis_results_grouped_v3'
+Total tasks to process: 30
+Using 128 parallel processes.

@@ -269,7 +269,7 @@ def main():
                         help="List of node counts to process, e.g., --node_counts 15 20 25")
     parser.add_argument("--removal_percents", type=int, nargs='+', default=list(range(15, 90, 5)),
                         help="List of removal percentages to process, e.g., --removal_percents 15 20 25")
-    parser.add_argument("--iterations", type=int, default=50,
+    parser.add_argument("--iterations", type=int, default=10,
                         help="Number of iterations per combination of node count and removal percent")
     parser.add_argument("--base_dir", type=str, default="generated_graphs",
                         help="Base directory where generated graphs are stored")

@@ -370,7 +370,7 @@ if __name__ == "__main__":
     main()
     '''
     python greedyEvalV2.py \
-    --node_counts 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75\
+    --node_counts 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95\
     --removal_percents 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 \
     --json_dir /home/sprice/MIS/modelAttempt2_5/test_mis_results_grouped_v3 \
     --csv_out mis_greedy_results_v1.csv \
@@ -388,7 +388,7 @@ if __name__ == "__main__":
     --num_layers 16
 
     python greedyEvalV2.py \
-    --node_counts 10 15 20 25 30 35 40 45 50 55 60 65 70\
+    --node_counts 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 95\
     --removal_percents 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 \
     --json_dir /home/sprice/MIS/modelAttempt2_5/test_mis_results_grouped_v3 \
     --csv_out mis_greedy_results_v3.csv \

@@ -97,7 +97,7 @@ def main():
     global_vmax = all_values.max() if len(all_values) > 0 else 1
 
     # Create subplots for the six metrics (arranged in a 2x3 grid).
-    fig, axes = plt.subplots(3, 2, figsize=(16, 16))
+    fig, axes = plt.subplots(3, 2, figsize=(18, 16))
     # fig.suptitle("RMSE Heatmaps for Greedy MIS Approximations (V2)", fontsize=18)
 
     subplot_mapping = {

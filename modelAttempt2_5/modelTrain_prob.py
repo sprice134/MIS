@@ -301,4 +301,16 @@ if __name__ == "__main__":
         --epochs 1000 \
         --patience 35 \
         --model_save_path best_model_prob_64_125_64_0.005_v3.pth
+
+    python modelTrain_prob.py \
+        --node_counts 10 15 20 25 30 35 40 45 50 55 60 65 70\
+        --removal_percents 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 \
+        --output_dir mis_results_grouped_v3 \
+        --batch_size 32\
+        --hidden_channels 176 \
+        --num_layers 28 \
+        --learning_rate 0.0010221252698628714 \
+        --epochs 1000 \
+        --patience 35 \
+        --model_save_path best_model_prob_32_176_28_0.001_v4.pth
     '''

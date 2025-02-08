@@ -52,10 +52,10 @@ def gather_generation_tasks(node_counts, removal_percents, iterations, base_dir)
 
 if __name__ == "__main__":
     # Define parameters
-    node_counts = list(range(85, 90, 5))       # 15, 20, ..., 150
+    node_counts = list(range(85, 95, 5))       # 15, 20, ..., 150
     removal_percents = list(range(15, 90, 5))  # 15%, 20%, ..., 85%
-    iterations = 30
-    base_dir = "test_generated_graphs"
+    iterations = 100
+    base_dir = "generated_graphs"
 
     # Create the base directory if it doesn't exist
     os.makedirs(base_dir, exist_ok=True)
