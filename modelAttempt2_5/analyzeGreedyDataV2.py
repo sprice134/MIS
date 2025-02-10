@@ -19,6 +19,7 @@ Usage:
     python analyzeGreedyDataV2.py --csv_in mis_greedy_results_v1.csv --img_out temp_images/rmse_heatmaps_v2.png
     python analyzeGreedyDataV2.py --csv_in mis_greedy_results_v2.csv --img_out temp_images/rmse_heatmaps_v2.png
     python analyzeGreedyDataV2.py --csv_in mis_greedy_results_v3.csv --img_out temp_images/rmse_heatmaps_v2.png
+    python analyzeGreedyDataV2.py --csv_in mis_greedy_results_v5.csv --img_out temp_images/rmse_heatmaps_v2.png
 """
 
 import argparse

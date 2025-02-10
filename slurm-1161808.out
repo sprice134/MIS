@@ -9,3 +9,34 @@ Iterations per combination: 10
 Base directory: 'test_generated_graphs', Output directory: 'test_mis_results_grouped_v3'
 Total tasks to process: 450
 Using 192 parallel processes.
+slurmstepd: error: *** JOB 1161808 ON compute-3-02 CANCELLED AT 2025-02-09T08:38:49 DUE TO TIME LIMIT ***
+Processed test_generated_graphs/nodes_80/removal_20percent/graph_25.edgelist: MIS size = 5, # of MIS sets = 7
+Processed test_generated_graphs/nodes_80/removal_50percent/graph_4.edgelist: MIS size = 9, # of MIS sets = 1
+Processed test_generated_graphs/nodes_80/removal_30percent/graph_17.edgelist: MIS size = 6, # of MIS sets = 4
+Processed test_generated_graphs/nodes_80/removal_65percent/graph_12.edgelist: MIS size = 12, # of MIS sets = 8
+Processed test_generated_graphs/nodes_80/removal_30percent/graph_22.edgelist: MIS size = 6, # of MIS sets = 2
+Processed test_generated_graphs/nodes_80/removal_65percent/graph_27.edgelist: MIS size = 11, # of MIS sets = 118
+Processed test_generated_graphs/nodes_80/removal_20percent/graph_1.edgelist: MIS size = 5, # of MIS sets = 8
+Processed test_generated_graphs/nodes_80/removal_50percent/graph_19.edgelist: MIS size = 9, # of MIS sets = 1
+Processed test_generated_graphs/nodes_80/removal_25percent/graph_17.edgelist: MIS size = 6, # of MIS sets = 1
+Processed test_generated_graphs/nodes_80/removal_60percent/graph_14.edgelist: MIS size = 11, # of MIS sets = 2
+Processed test_generated_graphs/nodes_80/removal_15percent/graph_24.edgelist: MIS size = 4, # of MIS sets = 20
+Processed test_generated_graphs/nodes_80/removal_50percent/graph_10.edgelist: MIS size = 9, # of MIS sets = 4
+Processed test_generated_graphs/nodes_80/removal_25percent/graph_3.edgelist: MIS size = 5, # of MIS sets = 18
+Processed test_generated_graphs/nodes_80/removal_60percent/graph_13.edgelist: MIS size = 11, # of MIS sets = 1
+Processed test_generated_graphs/nodes_80/removal_20percent/graph_10.edgelist: MIS size = 5, # of MIS sets = 4
+Processed test_generated_graphs/nodes_80/removal_50percent/graph_29.edgelist: MIS size = 9, # of MIS sets = 2
+Processed test_generated_graphs/nodes_80/removal_30percent/graph_9.edgelist: MIS size = 6, # of MIS sets = 4
+Processed test_generated_graphs/nodes_80/removal_65percent/graph_16.edgelist: MIS size = 11, # of MIS sets = 60
+Processed test_generated_graphs/nodes_80/removal_25percent/graph_27.edgelist: MIS size = 5, # of MIS sets = 24
+Processed test_generated_graphs/nodes_80/removal_50percent/graph_9.edgelist: MIS size = 9, # of MIS sets = 1
+Processed test_generated_graphs/nodes_80/removal_35percent/graph_6.edgelist: MIS size = 6, # of MIS sets = 18
+Processed test_generated_graphs/nodes_80/removal_50percent/graph_5.edgelist: MIS size = 9, # of MIS sets = 3
+Processed test_generated_graphs/nodes_80/removal_25percent/graph_10.edgelist: MIS size = 5, # of MIS sets = 16
+Processed test_generated_graphs/nodes_80/removal_55percent/graph_28.edgelist: MIS size = 9, # of MIS sets = 30
+Processed test_generated_graphs/nodes_80/removal_35percent/graph_4.edgelist: MIS size = 6, # of MIS sets = 20
+Processed test_generated_graphs/nodes_80/removal_55percent/graph_29.edgelist: MIS size = 10, # of MIS sets = 1
+Processed test_generated_graphs/nodes_80/removal_30percent/graph_18.edgelist: MIS size = 6, # of MIS sets = 1
+Processed test_generated_graphs/nodes_80/removal_65percent/graph_10.edgelist: MIS size = 12, # of MIS sets = 1
+Processed test_generated_graphs/nodes_80/removal_35percent/graph_19.edgelist: MIS size = 6, # of MIS sets = 13
+Processed test_generated_graphs/nodes_80/removal_65percent/graph_14.edgelist: MIS size = 11, # of MIS sets = 94

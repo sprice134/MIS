@@ -9,3 +9,6 @@ Iterations per combination: 10
 Base directory: 'test_generated_graphs', Output directory: 'test_mis_results_grouped_v3'
 Total tasks to process: 90
 Using 48 parallel processes.
+slurmstepd: error: *** JOB 1161809 ON compute-0-40 CANCELLED AT 2025-02-09T08:40:49 DUE TO TIME LIMIT ***
+Processed test_generated_graphs/nodes_90/removal_80percent/graph_18.edgelist: MIS size = 20, # of MIS sets = 4
+Processed test_generated_graphs/nodes_90/removal_80percent/graph_20.edgelist: MIS size = 19, # of MIS sets = 1

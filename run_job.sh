@@ -1,8 +1,8 @@
 #!/bin/bash
-#SBATCH --job-name=modelV6              # Job name
+#SBATCH --job-name=modelV5              # Job name
 #SBATCH --cpus-per-task=32              # Number of CPU cores
 #SBATCH --gres=gpu:1                    # Number of GPUs
-#SBATCH --mem=64000MB                   # Memory in MB
+#SBATCH --mem=32000MB                   # Memory in MB
 #SBATCH --time=12:00:00                 # Time limit (HH:MM:SS)
 #SBATCH --partition=short               # Partition name
 
@@ -49,7 +49,7 @@ python modelTrain_prob.py \
         --learning_rate 0.0010221252698628714 \
         --epochs 1000 \
         --patience 35 \
-        --model_save_path best_model_prob_32_176_28_0.001_v6.pth
+        --model_save_path best_model_prob_32_176_28_0.001_v5.pth
 
 # python misEvaluator.py --node_counts 55 --base_dir generated_graphs --output_dir mis_results_grouped_v3
 # python misEvaluator.py --node_counts 60 --base_dir generated_graphs --output_dir mis_results_grouped_v3

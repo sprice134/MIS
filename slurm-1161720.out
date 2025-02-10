@@ -9,3 +9,4 @@ Iterations per combination: 10
 Base directory: 'test_generated_graphs', Output directory: 'test_mis_results_grouped_v3'
 Total tasks to process: 30
 Using 96 parallel processes.
+slurmstepd: error: *** JOB 1161720 ON gpu-5-25 CANCELLED AT 2025-02-08T14:21:46 DUE TO TIME LIMIT ***

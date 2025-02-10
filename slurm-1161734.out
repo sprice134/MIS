@@ -9,3 +9,6 @@ Iterations per combination: 10
 Base directory: 'test_generated_graphs', Output directory: 'test_mis_results_grouped_v3'
 Total tasks to process: 30
 Using 128 parallel processes.
+Saved results for Nodes=75, Removal=85% to 'test_mis_results_grouped_v3/nodes_75_removal_85percent.json'
+All tasks processed. Total results collected: 30
+All grouped results have been saved.
