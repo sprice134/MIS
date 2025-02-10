@@ -1,0 +1,14 @@
+Running job on gpu-4-14
+Requested resources:
+  - CPUs: 32
+  - GPUs: 
+  - Memory: 64000
+Processing node counts: [85]
+Processing removal percentages: [85]
+Iterations per combination: 10
+Base directory: 'generated_graphs', Output directory: 'mis_results_grouped_v3'
+Temporary backup mode enabled.
+Temporary backup directory created: /tmp/mis_temp_hsi4_0sq
+Total tasks to process: 100
+Using 64 parallel processes.
+slurmstepd: error: *** JOB 1167063 ON gpu-4-14 CANCELLED AT 2025-02-10T09:56:55 ***

@@ -6,13 +6,14 @@ This script processes graph files (in edge list format) by:
   - Loading the graph (ensuring isolated nodes are added).
   - Computing a lower bound for the maximum independent set (MIS) using a
     fast minimum-degree greedy algorithm.
-  - Iteratively searching for independent sets of increasing size until none exist,
-    thereby identifying all maximum independent sets.
+  - Iteratively searching for independent sets of increasing size until
+    none are found, thereby identifying all maximum independent sets.
   - Computing per-node statistics:
       * MIS_CELLS: 1 if the node appears in any maximum independent set; else 0.
       * MIS_CELLS_PROB: Fraction of all maximum independent sets that include each node.
   - Grouping and saving the results into JSON files as soon as all tasks for a given
     node count and removal percentage are complete.
+  - Additionally, as each sub-task finishes, its result is saved to its own JSON file.
   
 Usage examples are provided at the end.
 """
@@ -269,7 +270,7 @@ def main():
                         help="List of node counts to process, e.g., --node_counts 15 20 25")
     parser.add_argument("--removal_percents", type=int, nargs='+', default=list(range(15, 90, 5)),
                         help="List of removal percentages to process, e.g., --removal_percents 15 20 25")
-    parser.add_argument("--iterations", type=int, default=10,
+    parser.add_argument("--iterations", type=int, default=50,
                         help="Number of iterations per combination of node count and removal percent")
     parser.add_argument("--base_dir", type=str, default="generated_graphs",
                         help="Base directory where generated graphs are stored")
@@ -297,6 +298,10 @@ def main():
     # Dictionary to accumulate results by group.
     group_results = defaultdict(list)
 
+    # Create a directory for individual results inside the output directory (concatenated with "temp").
+    temp_dir = args.output_dir + "_temp"
+    os.makedirs(temp_dir, exist_ok=True)
+
     num_processes = cpu_count()
     print(f"Using {num_processes} parallel processes.")
     
@@ -304,6 +309,17 @@ def main():
     with Pool(processes=num_processes) as pool:
         for res in pool.imap_unordered(process_graph, tasks):
             total_results += 1
+
+            # Save the individual result to its own JSON file.
+            individual_filename = f"result_{res['num_nodes']}_{res['percent_removed']}_{res['iteration']}_{total_results}.json"
+            individual_path = os.path.join(temp_dir, individual_filename)
+            try:
+                with open(individual_path, "w") as f:
+                    json.dump(res, f, indent=2)
+                print(f"Saved individual result: {individual_path}")
+            except Exception as e:
+                print(f"Error saving individual result '{individual_path}': {e}")
+
             key = (res["num_nodes"], res["percent_removed"])
             group_results[key].append(res)
             # When a group is complete, save its JSON file.
@@ -334,5 +350,5 @@ Example usage:
         --output_dir test_mis_results_grouped_v3
 
 Other example commands (adapt as needed):
-    python misEvaluator.py --node_counts 75 --base_dir test_generated_graphs --output_dir test_mis_results_grouped_v3
+    python misEvaluator_optimized.py --node_counts 95 --base_dir test_generated_graphs --output_dir test_mis_results_grouped_v3
 """
