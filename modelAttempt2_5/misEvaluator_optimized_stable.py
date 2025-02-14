@@ -332,6 +332,12 @@ Example usage:
         --iterations 50 \
         --base_dir test_generated_graphs \
         --output_dir test_mis_results_grouped_v3
+    
+    python misEvaluator_optimized_stable.py \
+        --node_counts 5 10 15 20 25 30 35 40 45 50 55 60 65 70  \
+        --iterations 100 \
+        --base_dir generated_graphs_second_stage \
+        --output_dir mis_results_grouped_v3_second_stage
 
 Other example commands (adapt as needed):
     python misEvaluator_optimized_working.py --node_counts 95 --base_dir test_generated_graphs --output_dir test_mis_results_grouped_v3
