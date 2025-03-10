@@ -98,7 +98,7 @@ if __name__ == "__main__":
     # Total node counts: 100, 200, ..., 1000
     node_counts = list(range(100, 1001, 100))
     # p_numerators: 15 numbers starting at 5 with gap of 3:
-    p_numerators = [5 + 3 * i for i in range(15)]
+    p_numerators = [50 + 3 * i for i in range(20)]
     # Number of graphs to generate per combination:
     iterations = 100
     # Base directory to store graphs:

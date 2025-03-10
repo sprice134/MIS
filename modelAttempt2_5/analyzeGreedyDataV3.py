@@ -17,7 +17,10 @@ for each metric. The X axis represents the number of nodes, and the Y axis repre
 The heatmap image is saved to disk and also displayed.
 
 Usage:
-    python analyzeGreedyDataV2.py --csv_in mis_greedy_results_v5.csv --img_out temp_images/rmse_heatmaps_v2.png
+    python analyzeGreedyDataV2.py --csv_in mis_greedy_results_v5.csv --img_out temp_images/rmse_heatmaps_v5.png
+    python analyzeGreedyDataV2.py --csv_in mis_greedy_results_v6.csv --img_out temp_images/rmse_heatmaps_v6.png
+
+    python analyzeGreedyDataV3.py --csv_in mis_greedy_results_bipartite.csv --img_out temp_images/rmse_heatmaps_bipartite.png
 """
 
 import argparse

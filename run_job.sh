@@ -1,9 +1,9 @@
 #!/bin/bash
-#SBATCH --job-name=90_80-85_train              # Job name
+#SBATCH --job-name=bipartite_eval              # Job name
 #SBATCH --cpus-per-task=32              # Number of CPU cores
 #SBATCH --gres=gpu:1                    # Number of GPUs
 #SBATCH --mem=64000MB                   # Memory in MB
-#SBATCH --time=8:00:00                 # Time limit (HH:MM:SS)
+#SBATCH --time=24:00:00                 # Time limit (HH:MM:SS)
 #SBATCH --partition=short               # Partition name
 
 # Print some job information
@@ -51,17 +51,27 @@ cd modelAttempt2_5
 #         --patience 35 \
 #         --model_save_path best_model_prob_32_176_28_0.001_v5.pth
 
-python modelTrain_prob.py \
-        --node_counts 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90\
-        --removal_percents 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 \
-        --output_dir mis_results_grouped_v3 \
-        --batch_size 32\
-        --hidden_channels 176 \
-        --num_layers 28 \
-        --learning_rate 0.0010221252698628714 \
-        --epochs 1000 \
-        --patience 35 \
-        --model_save_path best_model_prob_32_176_28_0.001_v6.pth
+# python modelTrain_prob.py \
+#         --node_counts 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90\
+#         --removal_percents 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 \
+#         --output_dir mis_results_grouped_v3 \
+#         --batch_size 32\
+#         --hidden_channels 176 \
+#         --num_layers 28 \
+#         --learning_rate 0.0010221252698628714 \
+#         --epochs 1000 \
+#         --patience 35 \
+#         --model_save_path best_model_prob_32_176_28_0.001_v6.pth
+
+python greedyEvalV3_bipartite.py \
+      --node_counts 100 200 300 400 500 600 700 800 900 1000 \
+      --bipartite_numbers 5 8 11 14 17 20 23 26 29 32 35 38 41 44 47 \
+      --json_dir /home/sprice/MIS/bipartite/mis_results_grouped \
+      --edgelist_base /home/sprice/MIS/bipartite/generated_graphs_bipartite \
+      --csv_out mis_greedy_results_bipartite.csv \
+      --model_path best_model_prob_32_176_28_0.001_v6.pth \
+      --hidden_channels 176 \
+      --num_layers 28
 
 # python misEvaluator.py --node_counts 55 --base_dir generated_graphs --output_dir mis_results_grouped_v3
 # python misEvaluator.py --node_counts 60 --base_dir generated_graphs --output_dir mis_results_grouped_v3
