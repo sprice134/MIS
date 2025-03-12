@@ -69,17 +69,23 @@ def noisy_oracle(v, predictions, epsilon, thresh):
     else:
         return 1 if random.random() < (0.5 - epsilon) else 0
 
-def compute_vertex_cover(G_sub):
+def greedy_MIS(G_sub):
     """
-    Compute a 2-approximate vertex cover of the subgraph G_sub using a maximal matching.
-    Every edge in the matching contributes both endpoints.
+    Compute an independent set using a greedy algorithm on graph G_sub.
+    This algorithm repeatedly selects a vertex (here, the one with minimum degree),
+    adds it to the independent set, and removes it along with its neighbors.
     """
-    matching = nx.algorithms.matching.maximal_matching(G_sub)
-    cover = set()
-    for u, v in matching:
-        cover.add(u)
-        cover.add(v)
-    return cover
+    I = set()
+    remaining = set(G_sub.nodes())
+    while remaining:
+        # Select the vertex with minimum degree in the remaining subgraph.
+        v = min(remaining, key=lambda x: G_sub.degree(x))
+        I.add(v)
+        # Remove v and all its neighbors from the remaining set.
+        neighbors = set(G_sub.neighbors(v))
+        remaining.remove(v)
+        remaining -= neighbors
+    return I
 
 def non_persistent_MIS(G, predictions, epsilon, delta, thresh):
     """
@@ -105,7 +111,7 @@ def non_persistent_MIS(G, predictions, epsilon, delta, thresh):
     r = 1
 
     # Print header for round output.
-    print("Round | q_r  | Surviving vertices | Vertex Cover | Independent Set | Total Queries")
+    print("Round | q_r  | Surviving vertices | Greedy MIS | Independent Set | Total Queries")
     print("----------------------------------------------------------------------")
     while total_queries < Q_threshold and V_r:
         q_r = math.ceil((4 / (epsilon ** 2)) * (r + math.log(1 / delta)))
@@ -124,10 +130,10 @@ def non_persistent_MIS(G, predictions, epsilon, delta, thresh):
             break
         
         H = G.subgraph(V_r)
-        cover = compute_vertex_cover(H)
-        I_r = V_r - cover
+        # Instead of computing a vertex cover, we compute a greedy independent set.
+        I_r = greedy_MIS(H)
         
-        print(f"{r:5d} | {q_r:4d} | {len(V_r):19d} | {len(cover):12d} | {len(I_r):16d} | {total_queries:13d}")
+        print(f"{r:5d} | {q_r:4d} | {len(V_r):19d} | {len(I_r):10d} | {len(I_r):16d} | {total_queries:13d}")
         
         if len(I_r) > len(best_independent_set):
             best_independent_set = I_r
@@ -201,13 +207,13 @@ def main():
 if __name__ == "__main__":
     main()
 
-    '''
-    python algo2_model_attempt1_single.py \
-        --graph_file ../modelAttempt2_5/test_generated_graphs/nodes_80/removal_80percent/graph_14.edgelist \
-        --json_file ../modelAttempt2_5/test_mis_results_grouped_v3/nodes_80_removal_80percent.json \
-        --epsilon 0.1 --delta 0.1 \
-        --model_path ../modelAttempt2_5/best_model_binary_32_176_28_0.001_v1.pth \
-        --hidden_channels 176 \
-        --num_layers 28 \
-        --thresh 0.2
-    '''
+'''
+python algo2_model_attempt2_single.py \
+    --graph_file ../modelAttempt2_5/test_generated_graphs/nodes_80/removal_80percent/graph_14.edgelist \
+    --json_file ../modelAttempt2_5/test_mis_results_grouped_v3/nodes_80_removal_80percent.json \
+    --epsilon 0.1 --delta 0.1 \
+    --model_path ../modelAttempt2_5/best_model_binary_32_176_28_0.001_v1.pth \
+    --hidden_channels 176 \
+    --num_layers 28 \
+    --thresh 0.2
+'''

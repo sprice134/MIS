@@ -54,7 +54,7 @@ def compute_vertex_cover(G_sub):
 
 def non_persistent_MIS(G, mis_set, epsilon, delta):
     """
-    Implements Algorithm 2 (non-persistent noise setting) as described in the manuscript :contentReference[oaicite:1]{index=1}.
+    Implements Algorithm 2 (non-persistent noise setting) as described in the manuscript.
     
     Parameters:
       G      : The input graph (networkx graph).
@@ -75,6 +75,10 @@ def non_persistent_MIS(G, mis_set, epsilon, delta):
     Q_threshold = (30 * n / (epsilon ** 2)) * math.log(1 / delta)
     r = 1
 
+    # Print header for round output.
+    print("Round | q_r  | Surviving vertices | Vertex Cover | Independent Set | Total Queries")
+    print("----------------------------------------------------------------------")
+    
     # Continue elimination rounds until query budget is exceeded or no vertices survive.
     while total_queries < Q_threshold and V_r:
         # Set number of queries per vertex in round r.
@@ -93,12 +97,16 @@ def non_persistent_MIS(G, mis_set, epsilon, delta):
         V_r = new_V
         
         if not V_r:
+            print(f"Round {r}: No surviving vertices remain.")
             break
         
         # Vertex Cover phase: compute a 2-approximate vertex cover on the induced subgraph.
         H = G.subgraph(V_r)
         cover = compute_vertex_cover(H)
         I_r = V_r - cover  # The remaining vertices form an independent set.
+        
+        # Print round summary.
+        print(f"{r:5d} | {q_r:4d} | {len(V_r):19d} | {len(cover):12d} | {len(I_r):16d} | {total_queries:13d}")
         
         # Maintain the best (largest) independent set found so far.
         if len(I_r) > len(best_independent_set):
@@ -110,7 +118,7 @@ def non_persistent_MIS(G, mis_set, epsilon, delta):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Non-persistent Noise MIS algorithm (Algorithm 2) from the manuscript :contentReference[oaicite:2]{index=2}."
+        description="Non-persistent Noise MIS algorithm (Algorithm 2) from the manuscript."
     )
     parser.add_argument("--graph_file", type=str, required=True,
                         help="Path to the edgelist file for the graph.")
@@ -163,6 +171,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
     '''
     
