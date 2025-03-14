@@ -1,0 +1,36 @@
+Running job on gpu-5-11
+Requested resources:
+  - CPUs: 64
+  - GPUs: 
+  - Memory: 85000
+iterativeModelTreshTest.py:186: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  model.load_state_dict(torch.load(args.model_save_path, map_location=device))
+Warning: JSON file '/home/sprice/MIS/modelAttempt2_5/test_mis_results_grouped_v3/nodes_80_removal_85percent.json' does not exist. Skipping.
+Warning: JSON file '/home/sprice/MIS/modelAttempt2_5/test_mis_results_grouped_v3/nodes_85_removal_85percent.json' does not exist. Skipping.
+Warning: JSON file '/home/sprice/MIS/modelAttempt2_5/test_mis_results_grouped_v3/nodes_90_removal_85percent.json' does not exist. Skipping.
+Total JSON files found: 252
+Total edgelist directories found: 252
+Total graphs in test dataset: 7560
+Loaded model from '../best_model_binary_32_176_28_0.001_v1.pth'.
+Threshold 1.00: Iterative RMSE = 8.9566
+Threshold 0.95: Iterative RMSE = 8.4676
+Threshold 0.90: Iterative RMSE = 7.1052
+Threshold 0.85: Iterative RMSE = 5.6529
+Threshold 0.80: Iterative RMSE = 4.4796
+Threshold 0.75: Iterative RMSE = 3.7252
+Threshold 0.70: Iterative RMSE = 2.7746
+Threshold 0.65: Iterative RMSE = 2.3588
+Threshold 0.60: Iterative RMSE = 2.1724
+Threshold 0.55: Iterative RMSE = 2.0751
+Threshold 0.50: Iterative RMSE = 2.0353
+Threshold 0.45: Iterative RMSE = 2.0120
+Threshold 0.30: Iterative RMSE = 0.9041
+Threshold 0.35: Iterative RMSE = 0.9166
+Threshold 0.25: Iterative RMSE = 0.8895
+Threshold 0.15: Iterative RMSE = 0.8659
+Threshold 0.00: Iterative RMSE = 0.8580
+Threshold 0.20: Iterative RMSE = 0.8702
+Threshold 0.40: Iterative RMSE = 0.9182
+Threshold 0.05: Iterative RMSE = 0.8593
+Threshold 0.10: Iterative RMSE = 0.8617
+Iterative RMSE results saved to rmse_results_iterative.csv

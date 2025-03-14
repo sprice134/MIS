@@ -104,7 +104,7 @@ cd greedyThresholding
 
 python iterativeModelTreshTest.py \
        --json_dir /home/sprice/MIS/modelAttempt2_5/test_mis_results_grouped_v3 \
-       --node_counts 10 15 20 25 30 35 40 45 50 55 60 65 70 \
+       --node_counts 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 \
        --removal_percents 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 \
        --model_save_path ../best_model_binary_32_176_28_0.001_v1.pth \
        --label_type binary \
