@@ -61,6 +61,6 @@ if __name__ == "__main__":
     main()
 
     '''
-    python eval.py --csv_0_1 v2_mis_basic_results_0.1.csv --csv_0_3 v2_mis_basic_results_0.2.csv
+    python eval.py --csv_0_1 v3_mis_basic_results.csv --csv_0_3 v2_mis_basic_results_0.2.csv
 
     '''
