@@ -1,0 +1,5 @@
+Running job on gpu-5-01
+Requested resources:
+  - CPUs: 64
+  - GPUs: 
+  - Memory: 48000

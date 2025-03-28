@@ -3,6 +3,7 @@ import math
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import numpy as np
 
 # Find all CSV files with the specified prefix.
 csv_files = glob.glob("bipartite_experiment_results_epislons_*.csv")
@@ -18,8 +19,8 @@ df["NormalizedImprovement"] = df["Improvement"] / df["Greedy_MIS"] * 100
 grouped = df.groupby(["Epsilon", "Nodes", "Coefficient"], as_index=False)["NormalizedImprovement"].mean()
 
 # Determine the global min and max normalized improvement for consistent color scale.
-global_min = grouped["NormalizedImprovement"].min()
-global_max = grouped["NormalizedImprovement"].max()
+global_min = -1 * max(np.abs(grouped["NormalizedImprovement"].min()), grouped["NormalizedImprovement"].max())
+global_max = max(np.abs(grouped["NormalizedImprovement"].min()), grouped["NormalizedImprovement"].max())
 
 # Get unique epsilon values.
 epsilons = sorted(df["Epsilon"].unique())
