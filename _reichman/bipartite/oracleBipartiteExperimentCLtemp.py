@@ -117,7 +117,7 @@ def simulate_noisy_mis_oracle(G, I_star, epsilon):
 if __name__ == "__main__":
     # Use the node count from the command line.
     n_values = [node_count]
-    coeff_values = list(range(2, 3))  # 1, 2, ..., 10
+    coeff_values = list(range(9, 10))  # 1, 2, ..., 10
     epislons = [0.025, 0.05, 0.075, 0.1, 0.125, 0.15, 0.175, 0.2, 0.225, 0.25]
     num_trials = 5  # Adjust as needed; set to 1 for brevity here
     base_seed = 42
