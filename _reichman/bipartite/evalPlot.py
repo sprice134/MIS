@@ -28,7 +28,7 @@ epsilons = sorted(df["Epsilon"].unique())
 n_eps = len(epsilons)
 n_cols = math.ceil(n_eps / 2)
 
-fig, axes = plt.subplots(2, n_cols, figsize=(5 * n_cols, 10), sharey=True)
+fig, axes = plt.subplots(2, n_cols, figsize=(7 * n_cols, 10), sharey=True)
 axes = axes.flatten()  # Flatten to iterate easily
 
 # For each epsilon, pivot the table and plot the heatmap with the same color scale.
@@ -37,7 +37,7 @@ for ax, eps in zip(axes, epsilons):
     pivot = sub_df.pivot(index="Coefficient", columns="Nodes", values="NormalizedImprovement")
     sns.heatmap(pivot, ax=ax, annot=True, fmt=".2f", cmap="viridis", 
                 vmin=global_min, vmax=global_max)
-    ax.set_title(f"Epsilon = {eps}")
+    ax.set_title(f"Percent Improvement with Oracle (At Epsilon = {eps})")
     ax.set_xlabel("Nodes in Evenly Sized Bipartite Graph")
     ax.set_ylabel("X * Log(n) / N")
 
