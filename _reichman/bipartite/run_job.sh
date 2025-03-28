@@ -1,0 +1,20 @@
+#!/bin/bash
+#SBATCH --job-name=500                 # Job name
+#SBATCH --cpus-per-task=64              # Number of CPU cores
+#SBATCH --gres=gpu:0                    # Number of GPUs
+#SBATCH --mem=48000MB                   # Memory in MB
+#SBATCH --time=1:00:00                 # Time limit (HH:MM:SS)
+#SBATCH --partition=short               # Partition name
+
+# Print some job information
+echo "Running job on $SLURM_JOB_NODELIST"
+echo "Requested resources:"
+echo "  - CPUs: $SLURM_CPUS_PER_TASK"
+echo "  - GPUs: $SLURM_GPUS"
+echo "  - Memory: $SLURM_MEM_PER_NODE"
+
+# Activate the Python virtual environment
+source /home/sprice/MIS/nodeCreator/bin/activate
+python /home/sprice/MIS/_reichman/bipartite/oracleExperimentCL.py 500
+
+
