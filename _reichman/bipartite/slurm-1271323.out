@@ -1,6 +1,0 @@
-Running job on compute-3-03
-Requested resources:
-  - CPUs: 32
-  - GPUs: 
-  - Memory: 24000
-slurmstepd: error: *** JOB 1271323 ON compute-3-03 CANCELLED AT 2025-03-28T13:49:29 ***

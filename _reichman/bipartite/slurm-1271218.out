@@ -1,6 +1,0 @@
-Running job on gpu-5-01
-Requested resources:
-  - CPUs: 64
-  - GPUs: 
-  - Memory: 48000
-slurmstepd: error: *** JOB 1271218 ON gpu-5-01 CANCELLED AT 2025-03-28T13:48:10 ***

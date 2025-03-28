@@ -1,6 +1,0 @@
-Running job on compute-3-03
-Requested resources:
-  - CPUs: 64
-  - GPUs: 
-  - Memory: 48000
-python: can't open file '/home/sprice/MIS/_reichman/bipartite/oracleExperimentCLtemp.py': [Errno 2] No such file or directory
