@@ -3,3 +3,4 @@ Requested resources:
   - CPUs: 32
   - GPUs: 
   - Memory: 24000
+slurmstepd: error: *** JOB 1271334 ON gpu-4-12 CANCELLED AT 2025-03-28T19:03:25 ***
