@@ -3,3 +3,54 @@ Requested resources:
   - CPUs: 32
   - GPUs: 
   - Memory: 24000
+n=40000, coeff=3, trial=0, GT MIS=20000, Greedy MIS=19450, |S|=40000, Oracle MIS=19450, Improvement=0
+n=40000, coeff=3, trial=0, GT MIS=20000, Greedy MIS=19450, |S|=40000, Oracle MIS=19450, Improvement=0
+n=40000, coeff=3, trial=0, GT MIS=20000, Greedy MIS=19450, |S|=40000, Oracle MIS=19450, Improvement=0
+n=40000, coeff=3, trial=0, GT MIS=20000, Greedy MIS=19450, |S|=39992, Oracle MIS=19427, Improvement=-23
+n=40000, coeff=3, trial=0, GT MIS=20000, Greedy MIS=19450, |S|=39888, Oracle MIS=19220, Improvement=-230
+n=40000, coeff=3, trial=0, GT MIS=20000, Greedy MIS=19450, |S|=39395, Oracle MIS=18246, Improvement=-1204
+n=40000, coeff=3, trial=0, GT MIS=20000, Greedy MIS=19450, |S|=38007, Oracle MIS=19417, Improvement=-33
+n=40000, coeff=3, trial=0, GT MIS=20000, Greedy MIS=19450, |S|=34932, Oracle MIS=19985, Improvement=535
+n=40000, coeff=3, trial=0, GT MIS=20000, Greedy MIS=19450, |S|=30606, Oracle MIS=20000, Improvement=550
+n=40000, coeff=3, trial=0, GT MIS=20000, Greedy MIS=19450, |S|=26373, Oracle MIS=19997, Improvement=547
+n=40000, coeff=3, trial=1, GT MIS=20000, Greedy MIS=19577, |S|=40000, Oracle MIS=19577, Improvement=0
+n=40000, coeff=3, trial=1, GT MIS=20000, Greedy MIS=19577, |S|=40000, Oracle MIS=19577, Improvement=0
+n=40000, coeff=3, trial=1, GT MIS=20000, Greedy MIS=19577, |S|=40000, Oracle MIS=19577, Improvement=0
+n=40000, coeff=3, trial=1, GT MIS=20000, Greedy MIS=19577, |S|=39980, Oracle MIS=19553, Improvement=-24
+n=40000, coeff=3, trial=1, GT MIS=20000, Greedy MIS=19577, |S|=39889, Oracle MIS=19381, Improvement=-196
+n=40000, coeff=3, trial=1, GT MIS=20000, Greedy MIS=19577, |S|=39329, Oracle MIS=19306, Improvement=-271
+n=40000, coeff=3, trial=1, GT MIS=20000, Greedy MIS=19577, |S|=37886, Oracle MIS=19313, Improvement=-264
+n=40000, coeff=3, trial=1, GT MIS=20000, Greedy MIS=19577, |S|=34764, Oracle MIS=19965, Improvement=388
+n=40000, coeff=3, trial=1, GT MIS=20000, Greedy MIS=19577, |S|=30337, Oracle MIS=19995, Improvement=418
+n=40000, coeff=3, trial=1, GT MIS=20000, Greedy MIS=19577, |S|=26145, Oracle MIS=19991, Improvement=414
+n=40000, coeff=3, trial=2, GT MIS=20000, Greedy MIS=19393, |S|=40000, Oracle MIS=19393, Improvement=0
+n=40000, coeff=3, trial=2, GT MIS=20000, Greedy MIS=19393, |S|=40000, Oracle MIS=19393, Improvement=0
+n=40000, coeff=3, trial=2, GT MIS=20000, Greedy MIS=19393, |S|=39999, Oracle MIS=19392, Improvement=-1
+n=40000, coeff=3, trial=2, GT MIS=20000, Greedy MIS=19393, |S|=39987, Oracle MIS=19371, Improvement=-22
+n=40000, coeff=3, trial=2, GT MIS=20000, Greedy MIS=19393, |S|=39909, Oracle MIS=19220, Improvement=-173
+n=40000, coeff=3, trial=2, GT MIS=20000, Greedy MIS=19393, |S|=39438, Oracle MIS=19366, Improvement=-27
+n=40000, coeff=3, trial=2, GT MIS=20000, Greedy MIS=19393, |S|=38076, Oracle MIS=19375, Improvement=-18
+n=40000, coeff=3, trial=2, GT MIS=20000, Greedy MIS=19393, |S|=35029, Oracle MIS=19971, Improvement=578
+n=40000, coeff=3, trial=2, GT MIS=20000, Greedy MIS=19393, |S|=30628, Oracle MIS=19998, Improvement=605
+n=40000, coeff=3, trial=2, GT MIS=20000, Greedy MIS=19393, |S|=26423, Oracle MIS=19992, Improvement=599
+n=40000, coeff=3, trial=3, GT MIS=20000, Greedy MIS=19377, |S|=40000, Oracle MIS=19377, Improvement=0
+n=40000, coeff=3, trial=3, GT MIS=20000, Greedy MIS=19377, |S|=40000, Oracle MIS=19377, Improvement=0
+n=40000, coeff=3, trial=3, GT MIS=20000, Greedy MIS=19377, |S|=40000, Oracle MIS=19377, Improvement=0
+n=40000, coeff=3, trial=3, GT MIS=20000, Greedy MIS=19377, |S|=39991, Oracle MIS=19359, Improvement=-18
+n=40000, coeff=3, trial=3, GT MIS=20000, Greedy MIS=19377, |S|=39896, Oracle MIS=19211, Improvement=-166
+n=40000, coeff=3, trial=3, GT MIS=20000, Greedy MIS=19377, |S|=39410, Oracle MIS=19442, Improvement=65
+n=40000, coeff=3, trial=3, GT MIS=20000, Greedy MIS=19377, |S|=38065, Oracle MIS=19462, Improvement=85
+n=40000, coeff=3, trial=3, GT MIS=20000, Greedy MIS=19377, |S|=35054, Oracle MIS=19981, Improvement=604
+n=40000, coeff=3, trial=3, GT MIS=20000, Greedy MIS=19377, |S|=30721, Oracle MIS=19995, Improvement=618
+n=40000, coeff=3, trial=3, GT MIS=20000, Greedy MIS=19377, |S|=26428, Oracle MIS=19992, Improvement=615
+n=40000, coeff=3, trial=4, GT MIS=20000, Greedy MIS=19392, |S|=40000, Oracle MIS=19392, Improvement=0
+n=40000, coeff=3, trial=4, GT MIS=20000, Greedy MIS=19392, |S|=40000, Oracle MIS=19392, Improvement=0
+n=40000, coeff=3, trial=4, GT MIS=20000, Greedy MIS=19392, |S|=39999, Oracle MIS=19391, Improvement=-1
+n=40000, coeff=3, trial=4, GT MIS=20000, Greedy MIS=19392, |S|=39992, Oracle MIS=19384, Improvement=-8
+n=40000, coeff=3, trial=4, GT MIS=20000, Greedy MIS=19392, |S|=39898, Oracle MIS=19250, Improvement=-142
+n=40000, coeff=3, trial=4, GT MIS=20000, Greedy MIS=19392, |S|=39433, Oracle MIS=18186, Improvement=-1206
+n=40000, coeff=3, trial=4, GT MIS=20000, Greedy MIS=19392, |S|=38142, Oracle MIS=19466, Improvement=74
+n=40000, coeff=3, trial=4, GT MIS=20000, Greedy MIS=19392, |S|=35013, Oracle MIS=19962, Improvement=570
+n=40000, coeff=3, trial=4, GT MIS=20000, Greedy MIS=19392, |S|=30726, Oracle MIS=19995, Improvement=603
+n=40000, coeff=3, trial=4, GT MIS=20000, Greedy MIS=19392, |S|=26448, Oracle MIS=19993, Improvement=601
+Results saved to bipartite_experiment_results_epislons_40000.csv
