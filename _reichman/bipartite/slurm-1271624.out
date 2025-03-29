@@ -3,3 +3,504 @@ Requested resources:
   - CPUs: 32
   - GPUs: 
   - Memory: 24000
+Skipping n=30000, coeff=1, trial=0, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=1, trial=0, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=1, trial=0, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=1, trial=0, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=1, trial=0, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=1, trial=0, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=1, trial=0, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=1, trial=0, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=1, trial=0, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=1, trial=0, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=1, trial=1, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=1, trial=1, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=1, trial=1, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=1, trial=1, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=1, trial=1, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=1, trial=1, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=1, trial=1, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=1, trial=1, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=1, trial=1, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=1, trial=1, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=1, trial=2, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=1, trial=2, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=1, trial=2, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=1, trial=2, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=1, trial=2, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=1, trial=2, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=1, trial=2, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=1, trial=2, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=1, trial=2, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=1, trial=2, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=1, trial=3, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=1, trial=3, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=1, trial=3, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=1, trial=3, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=1, trial=3, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=1, trial=3, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=1, trial=3, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=1, trial=3, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=1, trial=3, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=1, trial=3, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=1, trial=4, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=1, trial=4, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=1, trial=4, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=1, trial=4, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=1, trial=4, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=1, trial=4, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=1, trial=4, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=1, trial=4, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=1, trial=4, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=1, trial=4, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=2, trial=0, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=2, trial=0, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=2, trial=0, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=2, trial=0, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=2, trial=0, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=2, trial=0, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=2, trial=0, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=2, trial=0, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=2, trial=0, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=2, trial=0, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=2, trial=1, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=2, trial=1, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=2, trial=1, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=2, trial=1, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=2, trial=1, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=2, trial=1, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=2, trial=1, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=2, trial=1, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=2, trial=1, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=2, trial=1, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=2, trial=2, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=2, trial=2, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=2, trial=2, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=2, trial=2, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=2, trial=2, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=2, trial=2, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=2, trial=2, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=2, trial=2, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=2, trial=2, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=2, trial=2, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=2, trial=3, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=2, trial=3, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=2, trial=3, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=2, trial=3, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=2, trial=3, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=2, trial=3, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=2, trial=3, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=2, trial=3, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=2, trial=3, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=2, trial=3, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=2, trial=4, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=2, trial=4, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=2, trial=4, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=2, trial=4, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=2, trial=4, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=2, trial=4, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=2, trial=4, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=2, trial=4, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=2, trial=4, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=2, trial=4, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=3, trial=0, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=3, trial=0, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=3, trial=0, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=3, trial=0, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=3, trial=0, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=3, trial=0, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=3, trial=0, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=3, trial=0, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=3, trial=0, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=3, trial=0, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=3, trial=1, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=3, trial=1, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=3, trial=1, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=3, trial=1, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=3, trial=1, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=3, trial=1, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=3, trial=1, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=3, trial=1, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=3, trial=1, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=3, trial=1, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=3, trial=2, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=3, trial=2, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=3, trial=2, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=3, trial=2, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=3, trial=2, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=3, trial=2, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=3, trial=2, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=3, trial=2, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=3, trial=2, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=3, trial=2, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=3, trial=3, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=3, trial=3, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=3, trial=3, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=3, trial=3, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=3, trial=3, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=3, trial=3, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=3, trial=3, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=3, trial=3, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=3, trial=3, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=3, trial=3, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=3, trial=4, epsilon=0.025 as entry already exists.
+n=30000, coeff=3, trial=4, GT MIS=15000, Greedy MIS=14527, |S|=30000, Oracle MIS=14527, Improvement=0
+n=30000, coeff=3, trial=4, GT MIS=15000, Greedy MIS=14527, |S|=30000, Oracle MIS=14527, Improvement=0
+n=30000, coeff=3, trial=4, GT MIS=15000, Greedy MIS=14527, |S|=29994, Oracle MIS=14521, Improvement=-6
+n=30000, coeff=3, trial=4, GT MIS=15000, Greedy MIS=14527, |S|=29931, Oracle MIS=14418, Improvement=-109
+n=30000, coeff=3, trial=4, GT MIS=15000, Greedy MIS=14527, |S|=29585, Oracle MIS=13502, Improvement=-1025
+n=30000, coeff=3, trial=4, GT MIS=15000, Greedy MIS=14527, |S|=28379, Oracle MIS=14876, Improvement=349
+n=30000, coeff=3, trial=4, GT MIS=15000, Greedy MIS=14527, |S|=26325, Oracle MIS=14967, Improvement=440
+n=30000, coeff=3, trial=4, GT MIS=15000, Greedy MIS=14527, |S|=23351, Oracle MIS=14998, Improvement=471
+n=30000, coeff=3, trial=4, GT MIS=15000, Greedy MIS=14527, |S|=20224, Oracle MIS=14997, Improvement=470
+Skipping n=30000, coeff=4, trial=0, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=4, trial=0, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=4, trial=0, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=4, trial=0, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=4, trial=0, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=4, trial=0, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=4, trial=0, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=4, trial=0, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=4, trial=0, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=4, trial=0, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=4, trial=1, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=4, trial=1, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=4, trial=1, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=4, trial=1, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=4, trial=1, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=4, trial=1, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=4, trial=1, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=4, trial=1, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=4, trial=1, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=4, trial=1, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=4, trial=2, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=4, trial=2, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=4, trial=2, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=4, trial=2, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=4, trial=2, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=4, trial=2, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=4, trial=2, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=4, trial=2, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=4, trial=2, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=4, trial=2, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=4, trial=3, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=4, trial=3, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=4, trial=3, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=4, trial=3, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=4, trial=3, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=4, trial=3, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=4, trial=3, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=4, trial=3, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=4, trial=3, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=4, trial=3, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=4, trial=4, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=4, trial=4, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=4, trial=4, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=4, trial=4, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=4, trial=4, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=4, trial=4, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=4, trial=4, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=4, trial=4, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=4, trial=4, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=4, trial=4, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=5, trial=0, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=5, trial=0, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=5, trial=0, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=5, trial=0, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=5, trial=0, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=5, trial=0, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=5, trial=0, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=5, trial=0, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=5, trial=0, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=5, trial=0, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=5, trial=1, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=5, trial=1, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=5, trial=1, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=5, trial=1, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=5, trial=1, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=5, trial=1, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=5, trial=1, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=5, trial=1, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=5, trial=1, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=5, trial=1, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=5, trial=2, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=5, trial=2, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=5, trial=2, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=5, trial=2, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=5, trial=2, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=5, trial=2, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=5, trial=2, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=5, trial=2, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=5, trial=2, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=5, trial=2, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=5, trial=3, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=5, trial=3, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=5, trial=3, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=5, trial=3, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=5, trial=3, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=5, trial=3, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=5, trial=3, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=5, trial=3, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=5, trial=3, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=5, trial=3, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=5, trial=4, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=5, trial=4, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=5, trial=4, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=5, trial=4, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=5, trial=4, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=5, trial=4, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=5, trial=4, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=5, trial=4, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=5, trial=4, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=5, trial=4, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=6, trial=0, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=6, trial=0, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=6, trial=0, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=6, trial=0, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=6, trial=0, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=6, trial=0, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=6, trial=0, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=6, trial=0, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=6, trial=0, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=6, trial=0, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=6, trial=1, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=6, trial=1, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=6, trial=1, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=6, trial=1, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=6, trial=1, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=6, trial=1, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=6, trial=1, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=6, trial=1, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=6, trial=1, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=6, trial=1, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=6, trial=2, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=6, trial=2, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=6, trial=2, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=6, trial=2, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=6, trial=2, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=6, trial=2, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=6, trial=2, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=6, trial=2, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=6, trial=2, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=6, trial=2, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=6, trial=3, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=6, trial=3, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=6, trial=3, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=6, trial=3, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=6, trial=3, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=6, trial=3, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=6, trial=3, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=6, trial=3, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=6, trial=3, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=6, trial=3, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=6, trial=4, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=6, trial=4, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=6, trial=4, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=6, trial=4, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=6, trial=4, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=6, trial=4, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=6, trial=4, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=6, trial=4, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=6, trial=4, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=6, trial=4, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=7, trial=0, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=7, trial=0, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=7, trial=0, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=7, trial=0, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=7, trial=0, epsilon=0.125 as entry already exists.
+n=30000, coeff=7, trial=0, GT MIS=15000, Greedy MIS=14627, |S|=29011, Oracle MIS=14816, Improvement=189
+n=30000, coeff=7, trial=0, GT MIS=15000, Greedy MIS=14627, |S|=26266, Oracle MIS=15000, Improvement=373
+n=30000, coeff=7, trial=0, GT MIS=15000, Greedy MIS=14627, |S|=21546, Oracle MIS=15000, Improvement=373
+n=30000, coeff=7, trial=0, GT MIS=15000, Greedy MIS=14627, |S|=17491, Oracle MIS=15000, Improvement=373
+n=30000, coeff=7, trial=0, GT MIS=15000, Greedy MIS=14627, |S|=15646, Oracle MIS=14999, Improvement=372
+n=30000, coeff=7, trial=1, GT MIS=15000, Greedy MIS=14508, |S|=30000, Oracle MIS=14508, Improvement=0
+n=30000, coeff=7, trial=1, GT MIS=15000, Greedy MIS=14508, |S|=30000, Oracle MIS=14508, Improvement=0
+n=30000, coeff=7, trial=1, GT MIS=15000, Greedy MIS=14508, |S|=29999, Oracle MIS=14508, Improvement=0
+n=30000, coeff=7, trial=1, GT MIS=15000, Greedy MIS=14508, |S|=29986, Oracle MIS=14508, Improvement=0
+n=30000, coeff=7, trial=1, GT MIS=15000, Greedy MIS=14508, |S|=29851, Oracle MIS=14508, Improvement=0
+n=30000, coeff=7, trial=1, GT MIS=15000, Greedy MIS=14508, |S|=29038, Oracle MIS=14940, Improvement=432
+n=30000, coeff=7, trial=1, GT MIS=15000, Greedy MIS=14508, |S|=26353, Oracle MIS=15000, Improvement=492
+n=30000, coeff=7, trial=1, GT MIS=15000, Greedy MIS=14508, |S|=21879, Oracle MIS=15000, Improvement=492
+n=30000, coeff=7, trial=1, GT MIS=15000, Greedy MIS=14508, |S|=17733, Oracle MIS=15000, Improvement=492
+n=30000, coeff=7, trial=1, GT MIS=15000, Greedy MIS=14508, |S|=15679, Oracle MIS=15000, Improvement=492
+n=30000, coeff=7, trial=2, GT MIS=15000, Greedy MIS=14754, |S|=30000, Oracle MIS=14754, Improvement=0
+n=30000, coeff=7, trial=2, GT MIS=15000, Greedy MIS=14754, |S|=30000, Oracle MIS=14754, Improvement=0
+n=30000, coeff=7, trial=2, GT MIS=15000, Greedy MIS=14754, |S|=30000, Oracle MIS=14754, Improvement=0
+n=30000, coeff=7, trial=2, GT MIS=15000, Greedy MIS=14754, |S|=29996, Oracle MIS=14750, Improvement=-4
+n=30000, coeff=7, trial=2, GT MIS=15000, Greedy MIS=14754, |S|=29864, Oracle MIS=14367, Improvement=-387
+n=30000, coeff=7, trial=2, GT MIS=15000, Greedy MIS=14754, |S|=28926, Oracle MIS=14866, Improvement=112
+n=30000, coeff=7, trial=2, GT MIS=15000, Greedy MIS=14754, |S|=26190, Oracle MIS=15000, Improvement=246
+n=30000, coeff=7, trial=2, GT MIS=15000, Greedy MIS=14754, |S|=21554, Oracle MIS=15000, Improvement=246
+n=30000, coeff=7, trial=2, GT MIS=15000, Greedy MIS=14754, |S|=17575, Oracle MIS=15000, Improvement=246
+n=30000, coeff=7, trial=2, GT MIS=15000, Greedy MIS=14754, |S|=15626, Oracle MIS=14999, Improvement=245
+n=30000, coeff=7, trial=3, GT MIS=15000, Greedy MIS=14818, |S|=30000, Oracle MIS=14818, Improvement=0
+n=30000, coeff=7, trial=3, GT MIS=15000, Greedy MIS=14818, |S|=30000, Oracle MIS=14818, Improvement=0
+n=30000, coeff=7, trial=3, GT MIS=15000, Greedy MIS=14818, |S|=30000, Oracle MIS=14818, Improvement=0
+n=30000, coeff=7, trial=3, GT MIS=15000, Greedy MIS=14818, |S|=29998, Oracle MIS=14816, Improvement=-2
+n=30000, coeff=7, trial=3, GT MIS=15000, Greedy MIS=14818, |S|=29880, Oracle MIS=14648, Improvement=-170
+n=30000, coeff=7, trial=3, GT MIS=15000, Greedy MIS=14818, |S|=29096, Oracle MIS=14757, Improvement=-61
+n=30000, coeff=7, trial=3, GT MIS=15000, Greedy MIS=14818, |S|=26480, Oracle MIS=15000, Improvement=182
+n=30000, coeff=7, trial=3, GT MIS=15000, Greedy MIS=14818, |S|=21636, Oracle MIS=15000, Improvement=182
+n=30000, coeff=7, trial=3, GT MIS=15000, Greedy MIS=14818, |S|=17681, Oracle MIS=15000, Improvement=182
+n=30000, coeff=7, trial=3, GT MIS=15000, Greedy MIS=14818, |S|=15679, Oracle MIS=15000, Improvement=182
+n=30000, coeff=7, trial=4, GT MIS=15000, Greedy MIS=14775, |S|=30000, Oracle MIS=14775, Improvement=0
+n=30000, coeff=7, trial=4, GT MIS=15000, Greedy MIS=14775, |S|=30000, Oracle MIS=14775, Improvement=0
+n=30000, coeff=7, trial=4, GT MIS=15000, Greedy MIS=14775, |S|=30000, Oracle MIS=14775, Improvement=0
+n=30000, coeff=7, trial=4, GT MIS=15000, Greedy MIS=14775, |S|=29992, Oracle MIS=14767, Improvement=-8
+n=30000, coeff=7, trial=4, GT MIS=15000, Greedy MIS=14775, |S|=29867, Oracle MIS=14576, Improvement=-199
+n=30000, coeff=7, trial=4, GT MIS=15000, Greedy MIS=14775, |S|=28857, Oracle MIS=14926, Improvement=151
+n=30000, coeff=7, trial=4, GT MIS=15000, Greedy MIS=14775, |S|=25835, Oracle MIS=15000, Improvement=225
+n=30000, coeff=7, trial=4, GT MIS=15000, Greedy MIS=14775, |S|=21194, Oracle MIS=15000, Improvement=225
+n=30000, coeff=7, trial=4, GT MIS=15000, Greedy MIS=14775, |S|=17541, Oracle MIS=15000, Improvement=225
+n=30000, coeff=7, trial=4, GT MIS=15000, Greedy MIS=14775, |S|=15640, Oracle MIS=15000, Improvement=225
+Skipping n=30000, coeff=8, trial=0, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=8, trial=0, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=8, trial=0, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=8, trial=0, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=8, trial=0, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=8, trial=0, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=8, trial=0, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=8, trial=0, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=8, trial=0, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=8, trial=0, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=8, trial=1, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=8, trial=1, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=8, trial=1, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=8, trial=1, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=8, trial=1, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=8, trial=1, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=8, trial=1, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=8, trial=1, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=8, trial=1, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=8, trial=1, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=8, trial=2, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=8, trial=2, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=8, trial=2, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=8, trial=2, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=8, trial=2, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=8, trial=2, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=8, trial=2, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=8, trial=2, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=8, trial=2, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=8, trial=2, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=8, trial=3, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=8, trial=3, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=8, trial=3, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=8, trial=3, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=8, trial=3, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=8, trial=3, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=8, trial=3, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=8, trial=3, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=8, trial=3, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=8, trial=3, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=8, trial=4, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=8, trial=4, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=8, trial=4, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=8, trial=4, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=8, trial=4, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=8, trial=4, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=8, trial=4, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=8, trial=4, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=8, trial=4, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=8, trial=4, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=9, trial=0, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=9, trial=0, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=9, trial=0, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=9, trial=0, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=9, trial=0, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=9, trial=0, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=9, trial=0, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=9, trial=0, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=9, trial=0, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=9, trial=0, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=9, trial=1, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=9, trial=1, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=9, trial=1, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=9, trial=1, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=9, trial=1, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=9, trial=1, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=9, trial=1, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=9, trial=1, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=9, trial=1, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=9, trial=1, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=9, trial=2, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=9, trial=2, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=9, trial=2, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=9, trial=2, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=9, trial=2, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=9, trial=2, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=9, trial=2, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=9, trial=2, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=9, trial=2, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=9, trial=2, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=9, trial=3, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=9, trial=3, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=9, trial=3, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=9, trial=3, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=9, trial=3, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=9, trial=3, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=9, trial=3, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=9, trial=3, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=9, trial=3, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=9, trial=3, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=9, trial=4, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=9, trial=4, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=9, trial=4, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=9, trial=4, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=9, trial=4, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=9, trial=4, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=9, trial=4, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=9, trial=4, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=9, trial=4, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=9, trial=4, epsilon=0.25 as entry already exists.
+Skipping n=30000, coeff=10, trial=0, epsilon=0.025 as entry already exists.
+Skipping n=30000, coeff=10, trial=0, epsilon=0.05 as entry already exists.
+Skipping n=30000, coeff=10, trial=0, epsilon=0.075 as entry already exists.
+Skipping n=30000, coeff=10, trial=0, epsilon=0.1 as entry already exists.
+Skipping n=30000, coeff=10, trial=0, epsilon=0.125 as entry already exists.
+Skipping n=30000, coeff=10, trial=0, epsilon=0.15 as entry already exists.
+Skipping n=30000, coeff=10, trial=0, epsilon=0.175 as entry already exists.
+Skipping n=30000, coeff=10, trial=0, epsilon=0.2 as entry already exists.
+Skipping n=30000, coeff=10, trial=0, epsilon=0.225 as entry already exists.
+Skipping n=30000, coeff=10, trial=0, epsilon=0.25 as entry already exists.
+n=30000, coeff=10, trial=1, GT MIS=15000, Greedy MIS=14176, |S|=30000, Oracle MIS=14176, Improvement=0
+n=30000, coeff=10, trial=1, GT MIS=15000, Greedy MIS=14176, |S|=30000, Oracle MIS=14176, Improvement=0
+n=30000, coeff=10, trial=1, GT MIS=15000, Greedy MIS=14176, |S|=29999, Oracle MIS=14175, Improvement=-1
+n=30000, coeff=10, trial=1, GT MIS=15000, Greedy MIS=14176, |S|=29982, Oracle MIS=14158, Improvement=-18
+n=30000, coeff=10, trial=1, GT MIS=15000, Greedy MIS=14176, |S|=29756, Oracle MIS=14700, Improvement=524
+n=30000, coeff=10, trial=1, GT MIS=15000, Greedy MIS=14176, |S|=28120, Oracle MIS=15000, Improvement=824
+n=30000, coeff=10, trial=1, GT MIS=15000, Greedy MIS=14176, |S|=23729, Oracle MIS=15000, Improvement=824
+n=30000, coeff=10, trial=1, GT MIS=15000, Greedy MIS=14176, |S|=18634, Oracle MIS=15000, Improvement=824
+n=30000, coeff=10, trial=1, GT MIS=15000, Greedy MIS=14176, |S|=15734, Oracle MIS=15000, Improvement=824
+n=30000, coeff=10, trial=1, GT MIS=15000, Greedy MIS=14176, |S|=15092, Oracle MIS=15000, Improvement=824
+n=30000, coeff=10, trial=2, GT MIS=15000, Greedy MIS=14759, |S|=30000, Oracle MIS=14759, Improvement=0
+n=30000, coeff=10, trial=2, GT MIS=15000, Greedy MIS=14759, |S|=30000, Oracle MIS=14759, Improvement=0
+n=30000, coeff=10, trial=2, GT MIS=15000, Greedy MIS=14759, |S|=29999, Oracle MIS=14758, Improvement=-1
+n=30000, coeff=10, trial=2, GT MIS=15000, Greedy MIS=14759, |S|=29997, Oracle MIS=14756, Improvement=-3
+n=30000, coeff=10, trial=2, GT MIS=15000, Greedy MIS=14759, |S|=29727, Oracle MIS=14350, Improvement=-409
+n=30000, coeff=10, trial=2, GT MIS=15000, Greedy MIS=14759, |S|=28049, Oracle MIS=14956, Improvement=197
+n=30000, coeff=10, trial=2, GT MIS=15000, Greedy MIS=14759, |S|=23518, Oracle MIS=15000, Improvement=241
+n=30000, coeff=10, trial=2, GT MIS=15000, Greedy MIS=14759, |S|=18304, Oracle MIS=15000, Improvement=241
+n=30000, coeff=10, trial=2, GT MIS=15000, Greedy MIS=14759, |S|=15692, Oracle MIS=15000, Improvement=241
+n=30000, coeff=10, trial=2, GT MIS=15000, Greedy MIS=14759, |S|=15091, Oracle MIS=15000, Improvement=241
+n=30000, coeff=10, trial=3, GT MIS=15000, Greedy MIS=14489, |S|=30000, Oracle MIS=14489, Improvement=0
+n=30000, coeff=10, trial=3, GT MIS=15000, Greedy MIS=14489, |S|=30000, Oracle MIS=14489, Improvement=0
+n=30000, coeff=10, trial=3, GT MIS=15000, Greedy MIS=14489, |S|=30000, Oracle MIS=14489, Improvement=0
+n=30000, coeff=10, trial=3, GT MIS=15000, Greedy MIS=14489, |S|=29990, Oracle MIS=14480, Improvement=-9
+n=30000, coeff=10, trial=3, GT MIS=15000, Greedy MIS=14489, |S|=29773, Oracle MIS=14674, Improvement=185
+n=30000, coeff=10, trial=3, GT MIS=15000, Greedy MIS=14489, |S|=28371, Oracle MIS=15000, Improvement=511
+n=30000, coeff=10, trial=3, GT MIS=15000, Greedy MIS=14489, |S|=23929, Oracle MIS=15000, Improvement=511
+n=30000, coeff=10, trial=3, GT MIS=15000, Greedy MIS=14489, |S|=18363, Oracle MIS=15000, Improvement=511
+n=30000, coeff=10, trial=3, GT MIS=15000, Greedy MIS=14489, |S|=15737, Oracle MIS=15000, Improvement=511
+n=30000, coeff=10, trial=3, GT MIS=15000, Greedy MIS=14489, |S|=15087, Oracle MIS=15000, Improvement=511
+n=30000, coeff=10, trial=4, GT MIS=15000, Greedy MIS=14674, |S|=30000, Oracle MIS=14674, Improvement=0
+n=30000, coeff=10, trial=4, GT MIS=15000, Greedy MIS=14674, |S|=30000, Oracle MIS=14674, Improvement=0
+n=30000, coeff=10, trial=4, GT MIS=15000, Greedy MIS=14674, |S|=30000, Oracle MIS=14674, Improvement=0
+n=30000, coeff=10, trial=4, GT MIS=15000, Greedy MIS=14674, |S|=29993, Oracle MIS=14639, Improvement=-35
+n=30000, coeff=10, trial=4, GT MIS=15000, Greedy MIS=14674, |S|=29764, Oracle MIS=13941, Improvement=-733
+n=30000, coeff=10, trial=4, GT MIS=15000, Greedy MIS=14674, |S|=27883, Oracle MIS=15000, Improvement=326
+n=30000, coeff=10, trial=4, GT MIS=15000, Greedy MIS=14674, |S|=23107, Oracle MIS=15000, Improvement=326
+n=30000, coeff=10, trial=4, GT MIS=15000, Greedy MIS=14674, |S|=18039, Oracle MIS=15000, Improvement=326
+n=30000, coeff=10, trial=4, GT MIS=15000, Greedy MIS=14674, |S|=15645, Oracle MIS=15000, Improvement=326
+n=30000, coeff=10, trial=4, GT MIS=15000, Greedy MIS=14674, |S|=15082, Oracle MIS=15000, Improvement=326
+Results saved to bipartite_experiment_results_epislons_30000.csv
