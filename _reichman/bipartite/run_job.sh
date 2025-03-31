@@ -15,6 +15,6 @@ echo "  - Memory: $SLURM_MEM_PER_NODE"
 
 # Activate the Python virtual environment
 source /home/sprice/MIS/nodeCreator/bin/activate
-python /home/sprice/MIS/_reichman/bipartite/oracleBipartiteExperimentCLtemp3.py 90000 1
+python /home/sprice/MIS/_reichman/bipartite/oracleBipartiteExperimentCLtemp3.py 90000 8
 
 
