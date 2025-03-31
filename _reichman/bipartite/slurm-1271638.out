@@ -1,6 +1,0 @@
-Running job on compute-2-08
-Requested resources:
-  - CPUs: 18
-  - GPUs: 
-  - Memory: 18000
-slurmstepd: error: *** JOB 1271638 ON compute-2-08 CANCELLED AT 2025-03-28T19:14:20 ***

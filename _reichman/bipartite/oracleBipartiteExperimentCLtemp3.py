@@ -7,13 +7,19 @@ import pandas as pd
 import os
 
 # Get node count from command line argument.
-if len(sys.argv) < 2:
-    print("Usage: python script.py <node_count>")
+if len(sys.argv) < 3:
+    print("Usage: python script.py <node_count> <coefficient>")
     sys.exit(1)
 try:
     node_count = int(sys.argv[1])
 except ValueError:
     print("Node count must be an integer.")
+    sys.exit(1)
+
+try:
+    coeff = float(sys.argv[2])
+except ValueError:
+    print("Coefficient must be a number.")
     sys.exit(1)
 
 def create_bipartite_graph(n, coeff):
@@ -117,7 +123,7 @@ def simulate_noisy_mis_oracle(G, I_star, epsilon):
 if __name__ == "__main__":
     # Use the node count from the command line.
     n_values = [node_count]
-    coeff_values = list(range(8, 16))  # 1, 2, ..., 10
+    coeff_values = [coeff]
     epislons = [0.025, 0.05, 0.075, 0.1, 0.125, 0.15, 0.175, 0.2, 0.225, 0.25]
     num_trials = 10  # Adjust as needed; set to 1 for brevity here
     base_seed = 42
