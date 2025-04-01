@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=75000                 # Job name
+#SBATCH --job-name=50-100                 # Job name
 #SBATCH --cpus-per-task=12              # Number of CPU cores
 #SBATCH --gres=gpu:0                    # Number of GPUs
 #SBATCH --mem=18000MB                   # Memory in MB
@@ -15,6 +15,6 @@ echo "  - Memory: $SLURM_MEM_PER_NODE"
 
 # Activate the Python virtual environment
 source /home/sprice/MIS/nodeCreator/bin/activate
-python /home/sprice/MIS/_reichman/bipartite/oracleBipartiteExperimentCLtemp3.py 75000 1
+python /home/sprice/MIS/_reichman/bipartite/oracleBipartiteExperimentCLtemp3.py 50000 200
 
 # python /home/sprice/MIS/_reichman/bipartite/oracleBipartiteExperimentCLtemp2.py 60000
