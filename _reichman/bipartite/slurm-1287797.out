@@ -3,3 +3,104 @@ Requested resources:
   - CPUs: 12
   - GPUs: 
   - Memory: 18000
+Skipping n=70000, coeff=3.0, trial=0, epsilon=0.025 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=0, epsilon=0.05 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=0, epsilon=0.075 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=0, epsilon=0.1 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=0, epsilon=0.125 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=0, epsilon=0.15 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=0, epsilon=0.175 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=0, epsilon=0.2 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=0, epsilon=0.225 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=0, epsilon=0.25 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=1, epsilon=0.025 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=1, epsilon=0.05 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=1, epsilon=0.075 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=1, epsilon=0.1 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=1, epsilon=0.125 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=1, epsilon=0.15 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=1, epsilon=0.175 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=1, epsilon=0.2 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=1, epsilon=0.225 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=1, epsilon=0.25 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=2, epsilon=0.025 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=2, epsilon=0.05 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=2, epsilon=0.075 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=2, epsilon=0.1 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=2, epsilon=0.125 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=2, epsilon=0.15 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=2, epsilon=0.175 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=2, epsilon=0.2 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=2, epsilon=0.225 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=2, epsilon=0.25 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=3, epsilon=0.025 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=3, epsilon=0.05 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=3, epsilon=0.075 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=3, epsilon=0.1 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=3, epsilon=0.125 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=3, epsilon=0.15 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=3, epsilon=0.175 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=3, epsilon=0.2 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=3, epsilon=0.225 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=3, epsilon=0.25 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=4, epsilon=0.025 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=4, epsilon=0.05 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=4, epsilon=0.075 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=4, epsilon=0.1 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=4, epsilon=0.125 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=4, epsilon=0.15 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=4, epsilon=0.175 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=4, epsilon=0.2 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=4, epsilon=0.225 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=4, epsilon=0.25 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=5, epsilon=0.025 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=5, epsilon=0.05 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=5, epsilon=0.075 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=5, epsilon=0.1 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=5, epsilon=0.125 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=5, epsilon=0.15 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=5, epsilon=0.175 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=5, epsilon=0.2 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=5, epsilon=0.225 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=5, epsilon=0.25 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=6, epsilon=0.025 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=6, epsilon=0.05 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=6, epsilon=0.075 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=6, epsilon=0.1 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=6, epsilon=0.125 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=6, epsilon=0.15 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=6, epsilon=0.175 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=6, epsilon=0.2 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=6, epsilon=0.225 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=6, epsilon=0.25 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=7, epsilon=0.025 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=7, epsilon=0.05 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=7, epsilon=0.075 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=7, epsilon=0.1 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=7, epsilon=0.125 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=7, epsilon=0.15 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=7, epsilon=0.175 as entry already exists.
+Skipping n=70000, coeff=3.0, trial=7, epsilon=0.2 as entry already exists.
+n=70000, coeff=3.0, trial=7, GT MIS=35000, Greedy MIS=34492, |S|=53173, Oracle MIS=34997, Improvement=505
+n=70000, coeff=3.0, trial=7, GT MIS=35000, Greedy MIS=34492, |S|=45508, Oracle MIS=34987, Improvement=495
+n=70000, coeff=3.0, trial=8, GT MIS=35000, Greedy MIS=34584, |S|=70000, Oracle MIS=34584, Improvement=0
+n=70000, coeff=3.0, trial=8, GT MIS=35000, Greedy MIS=34584, |S|=70000, Oracle MIS=34584, Improvement=0
+n=70000, coeff=3.0, trial=8, GT MIS=35000, Greedy MIS=34584, |S|=69998, Oracle MIS=34582, Improvement=-2
+n=70000, coeff=3.0, trial=8, GT MIS=35000, Greedy MIS=34584, |S|=69973, Oracle MIS=34547, Improvement=-37
+n=70000, coeff=3.0, trial=8, GT MIS=35000, Greedy MIS=34584, |S|=69836, Oracle MIS=34378, Improvement=-206
+n=70000, coeff=3.0, trial=8, GT MIS=35000, Greedy MIS=34584, |S|=69073, Oracle MIS=33245, Improvement=-1339
+n=70000, coeff=3.0, trial=8, GT MIS=35000, Greedy MIS=34584, |S|=66733, Oracle MIS=34535, Improvement=-49
+n=70000, coeff=3.0, trial=8, GT MIS=35000, Greedy MIS=34584, |S|=61344, Oracle MIS=34967, Improvement=383
+n=70000, coeff=3.0, trial=8, GT MIS=35000, Greedy MIS=34584, |S|=53408, Oracle MIS=34998, Improvement=414
+n=70000, coeff=3.0, trial=8, GT MIS=35000, Greedy MIS=34584, |S|=45799, Oracle MIS=34993, Improvement=409
+n=70000, coeff=3.0, trial=9, GT MIS=35000, Greedy MIS=34509, |S|=70000, Oracle MIS=34509, Improvement=0
+n=70000, coeff=3.0, trial=9, GT MIS=35000, Greedy MIS=34509, |S|=70000, Oracle MIS=34509, Improvement=0
+n=70000, coeff=3.0, trial=9, GT MIS=35000, Greedy MIS=34509, |S|=69999, Oracle MIS=34508, Improvement=-1
+n=70000, coeff=3.0, trial=9, GT MIS=35000, Greedy MIS=34509, |S|=69975, Oracle MIS=34469, Improvement=-40
+n=70000, coeff=3.0, trial=9, GT MIS=35000, Greedy MIS=34509, |S|=69809, Oracle MIS=34277, Improvement=-232
+n=70000, coeff=3.0, trial=9, GT MIS=35000, Greedy MIS=34509, |S|=69008, Oracle MIS=33109, Improvement=-1400
+n=70000, coeff=3.0, trial=9, GT MIS=35000, Greedy MIS=34509, |S|=66629, Oracle MIS=34453, Improvement=-56
+n=70000, coeff=3.0, trial=9, GT MIS=35000, Greedy MIS=34509, |S|=61122, Oracle MIS=34970, Improvement=461
+n=70000, coeff=3.0, trial=9, GT MIS=35000, Greedy MIS=34509, |S|=53101, Oracle MIS=34996, Improvement=487
+n=70000, coeff=3.0, trial=9, GT MIS=35000, Greedy MIS=34509, |S|=45455, Oracle MIS=34990, Improvement=481
+Results saved to bipartite_experiment_results_epislons_70000.csv
