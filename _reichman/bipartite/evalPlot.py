@@ -29,7 +29,7 @@ epsilons = sorted(df["Epsilon"].unique())
 n_eps = len(epsilons)
 n_cols = math.ceil(n_eps / 2)
 
-fig, axes = plt.subplots(2, n_cols, figsize=(7 * n_cols, 10), sharey=True)
+fig, axes = plt.subplots(2, n_cols, figsize=(9 * n_cols, 10), sharey=True)
 axes = axes.flatten()  # Flatten to iterate easily
 
 # For each epsilon, pivot the table and plot the heatmap with the same color scale.
