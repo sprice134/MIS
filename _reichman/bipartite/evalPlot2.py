@@ -1,26 +1,61 @@
 import glob
+import math
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.model_selection import train_test_split
 import shap
 
-# Load CSV files and concatenate them.
+# Find all CSV files with the specified prefix.
 csv_files = glob.glob("bipartite_experiment_results_epislons_*.csv")
+
+# Load and concatenate all CSV files.
 df_list = [pd.read_csv(file) for file in csv_files]
 df = pd.concat(df_list, ignore_index=True)
 
-# Create normalized improvement column.
-df["NormalizedImprovement"] = df["Improvement"] / df["Greedy_MIS"] * 100
+# Create a new column for normalized improvement.
+df["ApproximationScore"] = df["Oracle_MIS"] / df["GroundTruth_MIS"] * 100
 
 # Group by Epsilon, Nodes, and Coefficient and compute the average NormalizedImprovement.
-grouped = df.groupby(["Epsilon", "Nodes", "Coefficient"], as_index=False)["NormalizedImprovement"].mean()
+grouped = df.groupby(["Epsilon", "Nodes", "Coefficient"], as_index=False)["ApproximationScore"].mean()
 
-# Define features and target.
+# Determine the global min and max normalized improvement for consistent color scale.
+global_min = grouped["ApproximationScore"].min()
+global_max = grouped["ApproximationScore"].max()
+
+# Get unique epsilon values.
+epsilons = sorted(df["Epsilon"].unique())
+
+# Determine subplot grid: 2 rows and as many columns as needed.
+n_eps = len(epsilons)
+n_cols = math.ceil(n_eps / 2)
+
+fig, axes = plt.subplots(2, n_cols, figsize=(10 * n_cols, 10), sharey=True)
+axes = axes.flatten()  # Flatten to iterate easily
+
+# For each epsilon, pivot the table and plot the heatmap with the same color scale.
+for ax, eps in zip(axes, epsilons):
+    sub_df = grouped[grouped["Epsilon"] == eps]
+    pivot = sub_df.pivot(index="Coefficient", columns="Nodes", values="ApproximationScore")
+    sns.heatmap(pivot, ax=ax, annot=True, fmt=".2f", cmap="viridis", 
+                vmin=global_min, vmax=global_max)
+    ax.set_title(f"Percent Improvement with Oracle (At Epsilon = {eps})")
+    ax.set_xlabel("Nodes in Evenly Sized Bipartite Graph")
+    ax.set_ylabel("X * Log(n) / N")
+
+# If there are any unused subplots, remove them.
+for ax in axes[len(epsilons):]:
+    fig.delaxes(ax)
+
+plt.tight_layout()
+plt.savefig("evalApprox.png")
+plt.show()
+
 X = grouped[["Nodes", "Coefficient", "Epsilon"]]
-y = grouped["NormalizedImprovement"]
+y = grouped["ApproximationScore"]
 
 # Split the data into training and testing sets.
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
@@ -45,7 +80,7 @@ plt.xlabel("Actual Normalized Improvement")
 plt.ylabel("Predicted Normalized Improvement")
 plt.title("Predicted vs. Actual Normalized Improvement")
 plt.legend()
-plt.savefig('evalFit.png')
+plt.savefig('evalApproxFit.png')
 plt.show()
 
 
@@ -61,7 +96,3 @@ shap_values = explainer.shap_values(X_test)
 
 # Generate a summary plot of SHAP values
 shap.summary_plot(shap_values, X_test, feature_names=X.columns)
-
-
-
-

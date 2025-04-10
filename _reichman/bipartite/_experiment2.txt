@@ -1,0 +1,17 @@
+Things for Experiment 2:
+    - Larger Coefficients Intervals: Only use whole numbers (should reduce experiments by 50%)
+    - Larger Coefficients: Explore up to C = 30 (15log(n)), but then also C = 50, 72, and 100 (Should increase number of experiments by 50%)
+    - Larger Node Intervals: Only use intervals of 10k (should reduce experiments by 50%)
+    - Fewer Trials: Only use 2 trials per experiment (Should reduce experiments by 80%)
+    - Ensure that all graphs are the same for different epsilon (Should reduce computations for baseline Greedy)
+    - Pre-generate the entire experimental design and have all batches pull from the same script 
+    - Institute file locking
+    - Reduce nodes/memory to increase number of jobs at once
+    - Learn how to auto submit identical batch jobs that will create the maximum computational resources, since it will be pulling from the same file
+
+
+Coeffecients: range(2, 30, 2) + [50, 72, 100]
+Nodes: range(10000, 200000, 10000) + [2500, 5000]
+Epsilon: range(0, 0.25, 0.025)
+Number of Trials: 2
+Seed: 42 + Trial ID (should be either 0 or 1)
