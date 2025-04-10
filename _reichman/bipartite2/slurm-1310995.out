@@ -1,0 +1,15 @@
+Running job on compute-3-04
+Requested resources:
+  - CPUs: 8
+  - GPUs: 
+  - Memory: 12000
+Traceback (most recent call last):
+  File "/home/sprice/MIS/_reichman/bipartite2/eval2.py", line 186, in <module>
+    row_index, experiment, doe_df = get_next_experiment()
+  File "/home/sprice/MIS/_reichman/bipartite2/eval2.py", line 26, in get_next_experiment
+    with FileLock(lock_filename, timeout=10):
+  File "/home/sprice/MIS/nodeCreator/lib/python3.8/site-packages/filelock/_api.py", line 376, in __enter__
+    self.acquire()
+  File "/home/sprice/MIS/nodeCreator/lib/python3.8/site-packages/filelock/_api.py", line 341, in acquire
+    raise Timeout(lock_filename)  # noqa: TRY301
+filelock._error.Timeout: The file lock 'experimentalDOE.csv.lock' could not be acquired.

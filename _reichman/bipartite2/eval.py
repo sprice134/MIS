@@ -18,19 +18,44 @@ result_columns = ["GroundTruth_MIS", "Greedy_MIS", "Size_S", "Oracle_MIS", "Impr
 
 def get_next_experiment():
     """
-    Opens the DOE file with a lock, finds the first row with empty result fields,
-    sets those fields to -1 (marking it as reserved), saves the file, and returns 
-    the row index along with its content as a dictionary.
+    Opens the DOE file with a lock, finds the first row with empty result fields
+    (ordered by custom priority), sets those fields to -1 (marking it as reserved),
+    saves the file, and returns the row index along with its content as a dictionary.
     """
     with FileLock(lock_filename, timeout=10):
         df = pd.read_csv(doe_csv_filename)
-        # We assume that if "GroundTruth_MIS" is NaN, the row has not been run.
-        empty_rows = df[df["GroundTruth_MIS"].isna()]
+        # Select rows that have not been run yet.
+        empty_rows = df[df["GroundTruth_MIS"].isna()].copy()
         if empty_rows.empty:
             print("No more experiments in DOE.")
             return None, None, df
+
+        # Define priority groups:
+        # group = 0: Nodes < 100000 and Coefficient in {2, 5, 10, 15, 20}
+        # group = 1: Nodes >= 100000 and Coefficient in {2, 5, 10, 15, 20}
+        # group = 2: All others.
+        def priority(row):
+            # Ensure numeric values.
+            nodes = float(row["Nodes"])
+            coeff = float(row["Coefficient"])
+            # Use a set for the preferred coefficients.
+            preferred_coeffs = {2, 5, 10, 15, 20}
+            if nodes < 100000 and coeff in preferred_coeffs:
+                group = 0
+            elif nodes >= 100000 and coeff in preferred_coeffs:
+                group = 1
+            else:
+                group = 2
+            return (group, nodes, coeff, row["Trial"], row["Epsilon"])
+
+        # Compute priority for each row.
+        empty_rows["priority"] = empty_rows.apply(priority, axis=1)
+        # Sort by the computed priority.
+        empty_rows = empty_rows.sort_values(by="priority")
+        
+        # Get the first row's index.
         row_idx = empty_rows.index[0]
-        # Reserve this row by marking result columns with -1.
+        # Reserve that row by marking the result columns with -1.
         for col in result_columns:
             df.at[row_idx, col] = -1
         df.to_csv(doe_csv_filename, index=False)
@@ -51,7 +76,6 @@ def update_experiment_result(row_idx, result):
             df.at[row_idx, col] = val
         df.to_csv(doe_csv_filename, index=False)
         print(f"Updated experiment at row {row_idx} with results.")
-
 
 # ===================== Evaluation Functions =====================
 
@@ -148,12 +172,11 @@ def simulate_noisy_mis_oracle(G, I_star, epsilon):
     barI = {v for v, val in oracle.items() if val == 1}
     return barI, oracle
 
-
 # ===================== Main Evaluation Workflow =====================
 
 if __name__ == "__main__":
     while True:
-        # Obtain a DOE experimental condition (with locking)
+        # Obtain a DOE experimental condition (with locking).
         row_index, experiment, doe_df = get_next_experiment()
         if experiment is None:
             print("All experiments have been processed. Exiting.")
@@ -215,4 +238,4 @@ if __name__ == "__main__":
         # Update the DOE file with the experiment results.
         update_experiment_result(row_index, result)
         
-        # Optionally, you can add a delay or any other handling before continuing.
+        # (Optional) Add delay or other processing steps here.

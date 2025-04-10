@@ -19,8 +19,9 @@ result_columns = ["GroundTruth_MIS", "Greedy_MIS", "Size_S", "Oracle_MIS", "Impr
 def get_next_experiment():
     """
     Opens the DOE file with a lock, finds the first row with empty result fields
-    (ordered by custom priority), sets those fields to -1 (marking it as reserved),
-    saves the file, and returns the row index along with its content as a dictionary.
+    (ordered by custom priority), randomly selects a row from the current group,
+    sets those fields to -1 (marking it as reserved), saves the file, and returns the row index 
+    along with its content as a dictionary.
     """
     with FileLock(lock_filename, timeout=10):
         df = pd.read_csv(doe_csv_filename)
@@ -50,11 +51,16 @@ def get_next_experiment():
 
         # Compute priority for each row.
         empty_rows["priority"] = empty_rows.apply(priority, axis=1)
-        # Sort by the computed priority.
         empty_rows = empty_rows.sort_values(by="priority")
         
-        # Get the first row's index.
-        row_idx = empty_rows.index[0]
+        # Determine the current group from the minimum priority value.
+        min_group = empty_rows["priority"].iloc[0][0]
+        # Filter rows belonging to that group.
+        current_group_rows = empty_rows[empty_rows["priority"].apply(lambda x: x[0] == min_group)]
+        # Randomly select one row from the current group.
+        selected_row = current_group_rows.sample(n=1)
+        row_idx = selected_row.index[0]
+        
         # Reserve that row by marking the result columns with -1.
         for col in result_columns:
             df.at[row_idx, col] = -1
@@ -204,7 +210,15 @@ if __name__ == "__main__":
         
         G, groupA, groupB = shuffle_node_ids(G)
         ground_truth_mis = compute_ground_truth_mis(G, groupA, groupB)
-        greedy_mis = greedy_min_degree_mis(G)
+        
+        # Check if the CSV already has a computed Greedy_MIS value.
+        if experiment["Greedy_MIS"] != -1 and not pd.isna(experiment["Greedy_MIS"]):
+            greedy_mis_size = int(experiment["Greedy_MIS"])
+            print(f"Using cached Greedy_MIS size {greedy_mis_size} from CSV.")
+        else:
+            greedy_mis = greedy_min_degree_mis(G)
+            greedy_mis_size = len(greedy_mis)
+            print(f"Computed Greedy_MIS size: {greedy_mis_size}.")
         
         # Use the ground truth MIS as I_star for the noisy oracle simulation.
         I_star = ground_truth_mis
@@ -214,8 +228,7 @@ if __name__ == "__main__":
         tilde_deg = {v: sum(1 for nb in G.neighbors(v) if nb in barI) for v in G.nodes()}
         
         # Compute a threshold s(v). Here we use Delta = average degree.
-        avg_degree = sum(dict(G.degree()).values()) / float(G.number_of_nodes())
-        Delta = avg_degree
+        Delta = max(d for _, d in G.degree())
         s = {v: (0.5 - epsilon) * G.degree(v) + 4 * math.sqrt(math.log(Delta)) * (0.5 - epsilon) * math.sqrt(Delta)
              for v in G.nodes()}
         
@@ -226,10 +239,10 @@ if __name__ == "__main__":
         # Prepare results.
         result = {
             "GroundTruth_MIS": len(ground_truth_mis),
-            "Greedy_MIS": len(greedy_mis),
+            "Greedy_MIS": greedy_mis_size,
             "Size_S": len(S),
             "Oracle_MIS": len(mis_noise),
-            "Improvement": len(mis_noise) - len(greedy_mis)
+            "Improvement": len(mis_noise) - greedy_mis_size
         }
         
         print(f"Results for n={n}, coeff={coeff}, trial={trial}, epsilon={epsilon}:")
@@ -237,5 +250,3 @@ if __name__ == "__main__":
         
         # Update the DOE file with the experiment results.
         update_experiment_result(row_index, result)
-        
-        # (Optional) Add delay or other processing steps here.

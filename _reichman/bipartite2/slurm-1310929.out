@@ -1,0 +1,6 @@
+Running job on compute-2-09
+Requested resources:
+  - CPUs: 8
+  - GPUs: 
+  - Memory: 12000
+slurmstepd: error: *** JOB 1310929 ON compute-2-09 CANCELLED AT 2025-04-10T15:49:13 ***

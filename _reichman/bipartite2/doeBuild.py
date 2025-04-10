@@ -12,7 +12,7 @@ nodes = list(range(10000, 200000, 10000)) + [2500, 5000]
 # Epsilon: from 0 to 0.25 in steps of 0.025.
 # We add a tiny tolerance so that 0.25 is included if desired.
 epsilons = list(np.arange(0, 0.25 + 1e-8, 0.0125))
-
+epsilons = [round(i, 8) for i in epsilons]
 # Number of trials: two (trial IDs 0 and 1)
 trials = [0, 1]
 
