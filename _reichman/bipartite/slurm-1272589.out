@@ -1,6 +1,0 @@
-Running job on compute-0-43
-Requested resources:
-  - CPUs: 14
-  - GPUs: 
-  - Memory: 18000
-slurmstepd: error: *** JOB 1272589 ON compute-0-43 CANCELLED AT 2025-04-01T18:13:29 DUE TO TIME LIMIT ***
