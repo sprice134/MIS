@@ -1,0 +1,3 @@
+Coefficient,Nodes,Trial,Epsilon,Seed,GroundTruth_MIS,Greedy_MIS,Size_S,Oracle_MIS,Improvement
+10.0,500000,0,0.025,0,250000,246051,500000,246051,0
+5.0,500000,0,0.025,0,250000,245352,500000,245352,0
