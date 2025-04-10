@@ -1,0 +1,106 @@
+Running job on compute-0-01
+Requested resources:
+  - CPUs: 12
+  - GPUs: 
+  - Memory: 18000
+Skipping n=80000, coeff=9.0, trial=0, epsilon=0.025 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=0, epsilon=0.05 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=0, epsilon=0.075 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=0, epsilon=0.1 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=0, epsilon=0.125 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=0, epsilon=0.15 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=0, epsilon=0.175 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=0, epsilon=0.2 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=0, epsilon=0.225 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=0, epsilon=0.25 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=1, epsilon=0.025 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=1, epsilon=0.05 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=1, epsilon=0.075 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=1, epsilon=0.1 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=1, epsilon=0.125 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=1, epsilon=0.15 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=1, epsilon=0.175 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=1, epsilon=0.2 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=1, epsilon=0.225 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=1, epsilon=0.25 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=2, epsilon=0.025 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=2, epsilon=0.05 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=2, epsilon=0.075 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=2, epsilon=0.1 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=2, epsilon=0.125 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=2, epsilon=0.15 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=2, epsilon=0.175 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=2, epsilon=0.2 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=2, epsilon=0.225 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=2, epsilon=0.25 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=3, epsilon=0.025 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=3, epsilon=0.05 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=3, epsilon=0.075 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=3, epsilon=0.1 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=3, epsilon=0.125 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=3, epsilon=0.15 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=3, epsilon=0.175 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=3, epsilon=0.2 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=3, epsilon=0.225 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=3, epsilon=0.25 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=4, epsilon=0.025 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=4, epsilon=0.05 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=4, epsilon=0.075 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=4, epsilon=0.1 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=4, epsilon=0.125 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=4, epsilon=0.15 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=4, epsilon=0.175 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=4, epsilon=0.2 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=4, epsilon=0.225 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=4, epsilon=0.25 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=5, epsilon=0.025 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=5, epsilon=0.05 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=5, epsilon=0.075 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=5, epsilon=0.1 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=5, epsilon=0.125 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=5, epsilon=0.15 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=5, epsilon=0.175 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=5, epsilon=0.2 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=5, epsilon=0.225 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=5, epsilon=0.25 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=6, epsilon=0.025 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=6, epsilon=0.05 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=6, epsilon=0.075 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=6, epsilon=0.1 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=6, epsilon=0.125 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=6, epsilon=0.15 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=6, epsilon=0.175 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=6, epsilon=0.2 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=6, epsilon=0.225 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=6, epsilon=0.25 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=7, epsilon=0.025 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=7, epsilon=0.05 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=7, epsilon=0.075 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=7, epsilon=0.1 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=7, epsilon=0.125 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=7, epsilon=0.15 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=7, epsilon=0.175 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=7, epsilon=0.2 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=7, epsilon=0.225 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=7, epsilon=0.25 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=8, epsilon=0.025 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=8, epsilon=0.05 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=8, epsilon=0.075 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=8, epsilon=0.1 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=8, epsilon=0.125 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=8, epsilon=0.15 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=8, epsilon=0.175 as entry already exists.
+Skipping n=80000, coeff=9.0, trial=8, epsilon=0.2 as entry already exists.
+n=80000, coeff=9.0, trial=8, GT MIS=40000, Greedy MIS=39492, |S|=41873, Oracle MIS=39999, Improvement=507
+n=80000, coeff=9.0, trial=8, GT MIS=40000, Greedy MIS=39492, |S|=40226, Oracle MIS=39998, Improvement=506
+n=80000, coeff=9.0, trial=9, GT MIS=40000, Greedy MIS=39473, |S|=80000, Oracle MIS=39473, Improvement=0
+n=80000, coeff=9.0, trial=9, GT MIS=40000, Greedy MIS=39473, |S|=80000, Oracle MIS=39473, Improvement=0
+n=80000, coeff=9.0, trial=9, GT MIS=40000, Greedy MIS=39473, |S|=79999, Oracle MIS=39472, Improvement=-1
+n=80000, coeff=9.0, trial=9, GT MIS=40000, Greedy MIS=39473, |S|=79963, Oracle MIS=39436, Improvement=-37
+n=80000, coeff=9.0, trial=9, GT MIS=40000, Greedy MIS=39473, |S|=79309, Oracle MIS=37526, Improvement=-1947
+n=80000, coeff=9.0, trial=9, GT MIS=40000, Greedy MIS=39473, |S|=74681, Oracle MIS=39978, Improvement=505
+n=80000, coeff=9.0, trial=9, GT MIS=40000, Greedy MIS=39473, |S|=62533, Oracle MIS=40000, Improvement=527
+n=80000, coeff=9.0, trial=9, GT MIS=40000, Greedy MIS=39473, |S|=49249, Oracle MIS=40000, Improvement=527
+n=80000, coeff=9.0, trial=9, GT MIS=40000, Greedy MIS=39473, |S|=42119, Oracle MIS=40000, Improvement=527
+n=80000, coeff=9.0, trial=9, GT MIS=40000, Greedy MIS=39473, |S|=40247, Oracle MIS=39998, Improvement=525
+Results saved to bipartite_experiment_results_epislons_80000.csv

@@ -1,0 +1,7 @@
+Running job on compute-3-06
+Requested resources:
+  - CPUs: 12
+  - GPUs: 
+  - Memory: 18000
+/cm/local/apps/slurm/var/spool/job1307894/slurm_script: line 18: 1572602 Killed                  python /home/sprice/MIS/_reichman/bipartite/oracleBipartiteExperimentCLtemp3.py 1000000 10
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=1307894.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.
